@@ -16,6 +16,6 @@ author:
   twitter: agmarrugo
   # disqus: your_disqus_forum_shortname
 
-# google_analytics: 'UA-81909010-1'
+google_analytics: 'UA-81909010-1'
 
 markdown: kramdown

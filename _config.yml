@@ -1,0 +1,21 @@
+# Site settings
+title: Computer Vision
+description: >
+  Lecture notes on the graduate course Computer Vision @ Universidad Tecnológica de Bolívar
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://opi-lab.github.io/computer-vision/" # the base hostname & protocol for your site
+
+#source: /
+# destination: /_site/
+
+author:
+  fullname: Andres Marrugo
+  # googleplus: https://www.google.com/+MotaquillahMaddane
+  github: agmarrugo
+  twitter: agmarrugo
+  # disqus: your_disqus_forum_shortname
+
+# google_analytics: 'UA-81909010-1'
+
+markdown: kramdown

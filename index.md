@@ -16,9 +16,9 @@ This semester course is an introduction to computer vision. It is aimed at gradu
 
 At the end of the lectures, one would be able to:
 
-- Have clear idea of challenges in metrology due to increasing trend towards miniaturisation.
-- Understand many different metrological devices and principles and applicability of those devices.
-- Understand the process and provide metrological solution for the improvement of a process.
+- Have clear idea of challenges in computer vision due to increasing use in mobile applications.
+- Understand many different computer vision algorithms and approaches.
+- Implement computer vision algorithms for mid-level vision tasks.
 
 ## Outline
 
@@ -26,10 +26,16 @@ This is a new course, this website will be updated as we go along.
 
 ### Lecture 1: Introduction
 
-We will be discussing the main aspects about metrology and why it is so important in manufacturing. 
+We will be discussing the main aspects and motivation for computer vision.
 
-[Lecture 1 slides](lectures/Lecture_01.pdf)
+[Lecture 1 slides](https://www.dropbox.com/s/mc5ijbj9onqua67/lec01_intro.pdf?dl=0)
 
-#### Optional Reading
+### Lecture 2: Perspective projection
 
-- [Optical metrology overview](pdfs/01-optical-metrology-overview.pdf)
+We will be studying the main aspects about perspective projection, the pinhole camera model, and cameras with lenses.
+
+[Lecture 2 slides]()
+
+#### Reading
+
+- [Forsyth and Ponce 1st chapter]()

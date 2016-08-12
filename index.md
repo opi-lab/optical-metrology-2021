@@ -54,10 +54,20 @@ We will be discussing the main aspects and motivation for computer vision.
 
 ### Lecture 2: Perspective projection
 
-We will be studying the main aspects about perspective projection, the pinhole camera model, and cameras with lenses.
+We will be studying the main aspects about perspective projection and the pinhole camera model.
 
 [Lecture 2 slides](https://www.dropbox.com/s/qtbrz67j4jfp2as/lec02_perspective.pdf?dl=0)
 
 #### Reading
 
-- [Forsyth and Ponce 1st chapter]()
+- [Forsyth and Ponce 1st chapter](https://www.dropbox.com/s/mfol1581hpd6fwy/Forsyth-Ponce-chapter-01.pdf?dl=0)
+- [Camera geometry and parameters](https://www.dropbox.com/s/2olqadczmsoevo7/01-lectura-geometria-camaras.pdf?dl=0)
+
+### Lecture 3: Cameras
+
+Cameras with lenses and properties.
+
+[Lecture 3 slides]()
+
+#### Reading
+

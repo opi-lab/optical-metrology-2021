@@ -26,13 +26,14 @@ At the end of the lectures, one would be able to:
 
 ### Tutorials, review materials
 
-- [MATLAB tutorial]()
+- [MATLAB tutorial](matlab.intro.html)
 - More MATLAB tutorials: [basic operations][bo], [programming][pro], [working with images][wim]
 - [Linear algebra review](http://www.cse.ucsd.edu/classes/wi05/cse252a/linear_algebra_review.pdf)
 - [Random variables review](http://www.cse.ucsd.edu/classes/wi05/cse252a/random_var_review.pdf)
  
-[bo]: http://web.engr.illinois.edu/~slazebni/spring16/matlab_ops_tutorial.m
-[pro]: 
+[bo]: matlab_ops_tutorial.m
+[pro]:matlab_prog_tutorial.m
+[wim]: matlab_image_tutorial.m
 
 ### MATLAB reference
 

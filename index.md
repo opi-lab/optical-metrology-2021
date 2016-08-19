@@ -70,7 +70,7 @@ In this assignment you will study the basics of projective geometry. You will st
 - [Assignment 1](computer-vision-assignment1.pdf)
 - [Assignment data](assignment1data.zip)
 
-##### Supporting material
+#### Supporting material
 
 - [Lecture notes by Magnus Oskarsson](alllectures.pdf)
 - [Homogeneous Coordinates and Transformations of the Plane](9781852338015-c1.pdf)

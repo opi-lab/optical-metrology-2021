@@ -63,11 +63,34 @@ We will be studying the main aspects about perspective projection and the pinhol
 - [Forsyth and Ponce 1st chapter](https://www.dropbox.com/s/mfol1581hpd6fwy/Forsyth-Ponce-chapter-01.pdf?dl=0)
 - [Camera geometry and parameters](https://www.dropbox.com/s/2olqadczmsoevo7/01-lectura-geometria-camaras.pdf?dl=0)
 
+### Assignment 1
+
+In this assignment you will study the basics of projective geometry. You will study the representations of points lines and planes, as well as transformations. The assignment and the data:
+
+- [Assignment 1](computer-vision-assignment1.pdf)
+- [Assignment data](assignment1data.zip)
+
+##### Supporting material
+
+- [Lecture notes by Magnus Oskarsson](alllectures.pdf)
+- [Homogeneous Coordinates and Transformations of the Plane](9781852338015-c1.pdf)
+- [Projective Geometry and Transformations in 2D](Hartley-Zisserman-chapter-02.pdf)
+
+
 ### Lecture 3: Cameras
 
-Cameras with lenses and properties.
+Cameras with lenses and properties. Thin lens formula, depth of field, field of view, and distorsions.
 
-[Lecture 3 slides]()
+[Lecture 3 slides](https://www.dropbox.com/s/lmbqj877zpi8u7r/lec03_camera.pdf?dl=0)
+
+
+### Lecture 4: Color
+
+We will discuss the physics of color, human color perception and models of image color.
+
+[Lecture 4 slides](https://www.dropbox.com/s/pr8pvn0pubdmj1j/lec04_color.pdf?dl=0)
 
 #### Reading
+
+- [Forsyth and Ponce 3rd chapter](https://www.dropbox.com/s/ggba6dvj9u1bcw8/Forsyth-Ponce-chapter-03.pdf?dl=0)
 

@@ -65,7 +65,7 @@ We will be studying the main aspects about perspective projection and the pinhol
 
 ### Assignment 1
 
-In this assignment you will study the basics of projective geometry. You will study the representations of points lines and planes, as well as transformations. The assignment and the data:
+In this assignment you will study the basics of projective geometry. You will study the representations of points lines and planes, as well as transformations. **The assignment is due on 2016-09-01 at 11:59 pm.** The assignment and the data:
 
 - [Assignment 1](computer-vision-assignment1.pdf)
 - [Assignment data](assignment1data.zip)

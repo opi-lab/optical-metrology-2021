@@ -94,3 +94,23 @@ We will discuss the physics of color, human color perception and models of image
 
 - [Forsyth and Ponce 3rd chapter](https://www.dropbox.com/s/ggba6dvj9u1bcw8/Forsyth-Ponce-chapter-03.pdf?dl=0)
 
+### Lecture 5: Linear Filtering
+
+Linear filters, convolution kernel, smoothing and sharpening.
+
+[Lecture 5 slides](https://www.dropbox.com/s/bii2lkpdl3y24rv/lec05_filter.pdf?dl=0)
+
+#### Reading
+
+- [Forsyth and Ponce 4th chapter](https://www.dropbox.com/s/oojl3uuwlj8mohk/Forsyth-Ponce-chapter-04.pdf?dl=0)
+
+### Lecture 6: Edge Detection
+
+We will introduce the general approach towards image edge detection.
+
+[Lecture 6 slides](https://www.dropbox.com/s/jzgv403hpwe8uo1/lec06_edge.pdf?dl=0)
+
+#### Reading
+
+- [Forsyth and Ponce 5.1-5.2](https://www.dropbox.com/s/vzkm4sje4uvrpy7/Forsyth-Ponce-chapter-05-1-2.pdf?dl=0)
+

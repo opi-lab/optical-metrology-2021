@@ -70,6 +70,8 @@ In this assignment you will study the basics of projective geometry. You will st
 - [Assignment 1](computer-vision-assignment1.pdf)
 - [Assignment data](assignment1data.zip)
 
+[**Upload link**](https://www.dropbox.com/request/kcbzM88o03DyAlpOLBtb)
+
 #### Supporting material
 
 - [Lecture notes by Magnus Oskarsson](alllectures.pdf)

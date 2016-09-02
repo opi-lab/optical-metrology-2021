@@ -106,11 +106,22 @@ Linear filters, convolution kernel, smoothing and sharpening.
 
 - [Forsyth and Ponce 4th chapter](https://www.dropbox.com/s/oojl3uuwlj8mohk/Forsyth-Ponce-chapter-04.pdf?dl=0)
 
-### Lecture 6: Edge Detection
+### Lecture 6: Frequency representation, pyramids and filter banks.
+
+In this lecture we will discuss the different representation for images and the sampling problems.
+
+[Lecture 6 slides - frequency](https://www.dropbox.com/s/02a64pfpd59m5xi/lec06_frequency.pdf?dl=0)
+[Lecture 6 slides - pyramids](https://www.dropbox.com/s/ladbcvtrek4oro7/lec06_pyramids.pdf?dl=0)
+
+#### Reading
+
+- [Forsyth and Ponce 4th chapter](https://www.dropbox.com/s/oojl3uuwlj8mohk/Forsyth-Ponce-chapter-04.pdf?dl=0)
+
+### Lecture 7: Edge Detection
 
 We will introduce the general approach towards image edge detection.
 
-[Lecture 6 slides](https://www.dropbox.com/s/jzgv403hpwe8uo1/lec06_edge.pdf?dl=0)
+[Lecture 7 slides](https://www.dropbox.com/s/jzgv403hpwe8uo1/lec06_edge.pdf?dl=0)
 
 #### Reading
 

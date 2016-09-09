@@ -121,7 +121,7 @@ In this lecture we will discuss the different representation for images and the 
 
 The goal of this assignment is to learn to work with images in MATLAB. **The assignment is due on 2016-09-24 at 11:59 pm.** The assignment and the data:
 
-- [Assignment 2](assignment2/)
+- [Assignment 2](/assignment2/)
 
 [**Upload link**](https://www.dropbox.com/request/HNjyNE0MMbHMx0qeUMrX)
 

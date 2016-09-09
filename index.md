@@ -144,3 +144,4 @@ We will introduce the general approach towards image edge detection.
 #### Reading
 
 - [Forsyth and Ponce 5.1-5.2](https://www.dropbox.com/s/52hempwwv2gbypn/Forsyth-Ponce-chapter-05-3.pdf?dl=0)
+- []

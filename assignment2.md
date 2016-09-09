@@ -1,3 +1,9 @@
+---
+layout: default
+title: Assignment 2
+permalink: /assignment2/
+---
+
 ## Computer Vision - 2P2016
 
 ## Assignment 2: Colorizing Prokudin-Gorskii images of the Russian Empire

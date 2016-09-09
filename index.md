@@ -117,6 +117,14 @@ In this lecture we will discuss the different representation for images and the 
 
 - [Forsyth and Ponce 4th chapter](https://www.dropbox.com/s/oojl3uuwlj8mohk/Forsyth-Ponce-chapter-04.pdf?dl=0)
 
+### <mark>Assignment 2</mark> 
+
+The goal of this assignment is to learn to work with images in MATLAB. **The assignment is due on 2016-09-24 at 11:59 pm.** The assignment and the data:
+
+- [Assignment 2](assignment2/)
+
+[**Upload link**](https://www.dropbox.com/request/HNjyNE0MMbHMx0qeUMrX)
+
 ### Lecture 7: Edge Detection
 
 We will introduce the general approach towards image edge detection.

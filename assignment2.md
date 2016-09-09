@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Assignment 2
-permalink: /assignment2/
 ---
 
 ## Computer Vision - 2P2016

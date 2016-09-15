@@ -117,7 +117,7 @@ In this lecture we will discuss the different representation for images and the 
 
 - [Forsyth and Ponce 4th chapter](https://www.dropbox.com/s/oojl3uuwlj8mohk/Forsyth-Ponce-chapter-04.pdf?dl=0)
 
-### <a name="QL1_6"> <mark>Questions Lectures 1-6</mark></a>
+### <a name="QL1_6"></a> <mark>Questions Lectures 1-6</mark>
 
 If you have worked out the lecture questions, please send them to the following [link.](https://www.dropbox.com/request/0giihDfxx7vb1O4rIDYz)
 

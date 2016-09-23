@@ -149,3 +149,30 @@ We will introduce the general approach towards image edge detection.
 #### Reading
 
 - [Forsyth and Ponce 5.1-5.2](https://www.dropbox.com/s/52hempwwv2gbypn/Forsyth-Ponce-chapter-05-3.pdf?dl=0)
+
+### Lecture 9: SIFT
+
+In this lecture we will discuss Scale-Invariant Keypoints.
+
+[Lecture 9 slides](https://www.dropbox.com/s/v60jegnvetck34u/lec09_sift.pdf?dl=0)       
+
+### Lecture 10: Optical Flow
+
+We will introduce motion estimation in computer vision.
+
+[Lecture 10 slides](https://www.dropbox.com/s/6db7s4etomd0p21/lec10_optical_flow.pdf?dl=0)       
+
+#### Reading
+
+- [Forsyth and Ponce 11.1](https://www.dropbox.com/s/1kmiy3gtli1i5xl/Forsyth-Ponce-chapter-11-1.pdf?dl=0)
+
+### Lecture 11: Fitting
+
+In this lecture we will discuss the main aspects of fitting data to a parametric model, especially under the assumption of noisy data.
+
+[Lecture 11 slides](https://www.dropbox.com/s/dqx065cez99pim2/lec11_fitting.pdf?dl=0)       
+
+#### Reading
+
+- [Forsyth and Ponce 10.2](https://www.dropbox.com/s/3ld7ayedcj4u2bz/Forsyth-Ponce-chapter-10.pdf?dl=0)
+- [Forsyth and Ponce 22.1](https://www.dropbox.com/s/ufecs7h22109r1m/Forsyth-Ponce-chapter-22-1.pdf?dl=0)

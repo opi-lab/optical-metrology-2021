@@ -121,7 +121,7 @@ In this lecture we will discuss the different representation for images and the 
 
 If you have worked out the lecture questions, please send them to the following [link.](https://www.dropbox.com/request/0giihDfxx7vb1O4rIDYz)
 
-### <mark>Assignment 2</mark> 
+### Assignment 2
 
 The goal of this assignment is to learn to work with images in MATLAB. **The assignment is due on 2016-09-24 at 11:59 pm.** The assignment and the data:
 
@@ -154,7 +154,15 @@ We will introduce the general approach towards image edge detection.
 
 In this lecture we will discuss Scale-Invariant Keypoints.
 
-[Lecture 9 slides](https://www.dropbox.com/s/v60jegnvetck34u/lec09_sift.pdf?dl=0)       
+[Lecture 9 slides](https://www.dropbox.com/s/v60jegnvetck34u/lec09_sift.pdf?dl=0)
+
+### <mark>Assignment 3</mark> 
+
+The goal of this assignment is to implement a Laplacian blob detector. **The assignment is due on 2016-10-15 at 11:59 pm.** The assignment and the data:
+
+- [Assignment 3](assignment3)
+
+[**Upload link**](https://www.dropbox.com/request/0fDrePHzilihx3YHBBP8)
 
 ### Lecture 10: Optical Flow
 

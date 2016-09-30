@@ -56,7 +56,7 @@ Here are [four images][link-four-in] to test your code, and [sample output image
 
 - You also have to set a threshold on the squared Laplacian response above which to report region detections. You should play around with different values and choose one you like best.
 
-- To display the detected regions as circles, you can use [this function][show-circles] (or feel free to search for a suitable MATLAB function or write your own). Hint: Don't forget that there is a multiplication factor that relates the scale at which a region is detected to the radius of the circle that most closely "approximates" the region.
+- To display the detected regions as circles, you can use [this function][../show-circles] (or feel free to search for a suitable MATLAB function or write your own). Hint: Don't forget that there is a multiplication factor that relates the scale at which a region is detected to the radius of the circle that most closely "approximates" the region.
 
 [show-circles]: show_all_circles.m
 

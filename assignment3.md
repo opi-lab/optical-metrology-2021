@@ -13,7 +13,7 @@ permalink: /assignment3/
 ![](https://dl.dropboxusercontent.com/u/5279729/tutorial/butterfly.jpg)
 ![](https://dl.dropboxusercontent.com/u/5279729/tutorial/blobs_butterfly.gif)
 
-The goal of the assignment is to implement a Laplacian blob detector as discussed in the [this lecture.][lecture] Adapted from [S. Lazebni][lazebni].
+The goal of the assignment is to implement a Laplacian blob detector as discussed in [this lecture.][lecture] Adapted from [S. Lazebni][lazebni].
 
 [lecture]: https://www.dropbox.com/s/v60jegnvetck34u/lec09_sift.pdf?dl=0
 [lazebni]: http://web.engr.illinois.edu/~slazebni/spring11/assignment3.html

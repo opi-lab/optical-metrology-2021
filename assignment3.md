@@ -58,11 +58,11 @@ Here are [four images][link-four-in] to test your code, and [sample output image
 
 - To display the detected regions as circles, you can use [this function][show-circles] (or feel free to search for a suitable MATLAB function or write your own). Hint: Don't forget that there is a multiplication factor that relates the scale at which a region is detected to the radius of the circle that most closely "approximates" the region.
 
-[show-circles]: https://www.dropbox.com/s/kiotkw3q0mijy8y/show_all_circles.m
+[show-circles]:https://www.dropbox.com/s/kiotkw3q0mijy8y/show_all_circles.m?dl=0
 
 ## Helpful resources
 
-- [Sample Harris detector code.](https://www.dropbox.com/s/zj6tk9zbosbulqa/harris.m?)
+- [Sample Harris detector code.](https://www.dropbox.com/s/zj6tk9zbosbulqa/harris.m?dl=0)
 - [Blob detection][blob] on Wikipedia.
 - D. Lowe, ["Distinctive image features from scale-invariant keypoints,"][lowe] International Journal of Computer Vision, 60 (2), pp. 91-110, 2004. This paper contains details about efficient implementation of a Difference-of-Gaussians scale space.
 - T. Lindeberg, ["Feature detection with automatic scale selection,"][lindberg] International Journal of Computer Vision 30 (2), pp. 77-116, 1998. This is advanced reading for those of you who are really interested in the gory mathematical details.

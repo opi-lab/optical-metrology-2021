@@ -189,7 +189,7 @@ In this lecture we will discuss the main aspects of fitting data to a parametric
 
 We continue on the topic of fitting, this time via the Hough Transform.
 
-[Lecture 12 slides](https://www.dropbox.com/s/hxyb019liojskd7/lec12_hough.pptx?dl=0)       
+[Lecture 12 slides](https://www.dropbox.com/s/ts2azv8nxcdi9lt/lec12_hough.pdf?dl=0)       
 
 #### Reading
 
@@ -199,7 +199,7 @@ We continue on the topic of fitting, this time via the Hough Transform.
 
 Registration or alignment is the problem of finding a transformation that takes one dataset to another. 
 
-[Lecture 13 slides](https://www.dropbox.com/s/4u45v4jwiqztxzy/lec13_alignment.pptx?dl=0)       
+[Lecture 13 slides](https://www.dropbox.com/s/orsrjal2bbbo4hx/lec13_alignment.pdf?dl=0)       
 
 #### Reading
 

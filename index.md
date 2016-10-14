@@ -204,3 +204,13 @@ Registration or alignment is the problem of finding a transformation that takes 
 #### Reading
 
 - [Forsyth and Ponce 12.1](https://www.dropbox.com/s/jkpze7ixos6jlpk/Forsyth-Ponce-chapter-12-1.pdf?dl=0)
+
+### <mark>In class assignment</mark> 
+
+The goal of this assignment is to implement a naive RANSAC line fiting. 
+<!-- Laplacian blob detector. **The assignment is due on 2016-10-22 at 11:59 pm.**  -->
+The code:
+
+- [Assignment](https://www.dropbox.com/sh/mxy8wde75c95s2q/AAAb8WnqKnrJCxA69gtCBWKwa?dl=0)
+
+[**Upload link**]()

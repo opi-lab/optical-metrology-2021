@@ -158,7 +158,7 @@ In this lecture we will discuss Scale-Invariant Keypoints.
 
 ### <mark>Assignment 3</mark> 
 
-The goal of this assignment is to implement a Laplacian blob detector. **The assignment is due on 2016-10-15 at 11:59 pm.** The assignment and the data:
+The goal of this assignment is to implement a Laplacian blob detector. **The assignment is due on 2016-10-22 at 11:59 pm.** The assignment and the data:
 
 - [Assignment 3](assignment3)
 
@@ -184,3 +184,23 @@ In this lecture we will discuss the main aspects of fitting data to a parametric
 
 - [Forsyth and Ponce 10.2](https://www.dropbox.com/s/3ld7ayedcj4u2bz/Forsyth-Ponce-chapter-10.pdf?dl=0)
 - [Forsyth and Ponce 22.1](https://www.dropbox.com/s/ufecs7h22109r1m/Forsyth-Ponce-chapter-22-1.pdf?dl=0)
+
+### Lecture 12: Hough Transform
+
+We continue on the topic of fitting, this time via the Hough Transform.
+
+[Lecture 12 slides](https://www.dropbox.com/s/hxyb019liojskd7/lec12_hough.pptx?dl=0)       
+
+#### Reading
+
+- [Forsyth and Ponce 10.1](https://www.dropbox.com/s/3ld7ayedcj4u2bz/Forsyth-Ponce-chapter-10.pdf?dl=0)
+
+### Lecture 13: Alignment
+
+Registration or alignment is the problem of finding a transformation that takes one dataset to another. 
+
+[Lecture 13 slides](https://www.dropbox.com/s/4u45v4jwiqztxzy/lec13_alignment.pptx?dl=0)       
+
+#### Reading
+
+- [Forsyth and Ponce 12.1](https://www.dropbox.com/s/jkpze7ixos6jlpk/Forsyth-Ponce-chapter-12-1.pdf?dl=0)

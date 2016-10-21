@@ -199,13 +199,13 @@ We continue on the topic of fitting, this time via the Hough Transform.
 
 Registration or alignment is the problem of finding a transformation that takes one dataset to another. 
 
-[Lecture 13 slides](https://www.dropbox.com/s/orsrjal2bbbo4hx/lec13_alignment.pdf?dl=0)       
+[Lecture 13 slides](https://www.dropbox.com/s/4u45v4jwiqztxzy/lec13_alignment.pptx?dl=0)       
 
 #### Reading
 
 - [Forsyth and Ponce 12.1](https://www.dropbox.com/s/jkpze7ixos6jlpk/Forsyth-Ponce-chapter-12-1.pdf?dl=0)
 
-### <mark>In class assignment 4</mark> 
+### In class assignment 4
 
 The goal of this assignment is to implement a naive RANSAC line fiting. 
 **The assignment is due on 2016-10-16 at 11:00 pm.**
@@ -214,3 +214,14 @@ The code:
 - [Assignment](https://www.dropbox.com/sh/mxy8wde75c95s2q/AAAb8WnqKnrJCxA69gtCBWKwa?dl=0)
 
 [**Upload link**](https://www.dropbox.com/request/NUR1i2bZ4CEW9G5a4hR3)
+
+### Lecture 14: Calibration
+
+Calibrating a single camera. 
+
+[Lecture 14 slides](https://www.dropbox.com/s/lj8md9yf7gzo4eh/lec14_calibration.pptx?dl=0)       
+
+#### Reading
+
+- [Forsyth and Ponce 1st chapter](https://www.dropbox.com/s/mfol1581hpd6fwy/Forsyth-Ponce-chapter-01.pdf?dl=0)
+- [Camera geometry and parameters](https://www.dropbox.com/s/2olqadczmsoevo7/01-lectura-geometria-camaras.pdf?dl=0)

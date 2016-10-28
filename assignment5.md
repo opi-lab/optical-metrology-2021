@@ -11,7 +11,7 @@ div.container {
 
 ## Computer Vision - 2P2016
 
-## Assignment 4: Homography and fundamental matrix estimation
+## Assignment 5: Homography and fundamental matrix estimation
 
 ### Due date: November 19, 11:59 PM
 

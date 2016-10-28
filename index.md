@@ -156,7 +156,7 @@ In this lecture we will discuss Scale-Invariant Keypoints.
 
 [Lecture 9 slides](https://www.dropbox.com/s/v60jegnvetck34u/lec09_sift.pdf?dl=0)
 
-### <mark>Assignment 3</mark> 
+### Assignment 3
 
 The goal of this assignment is to implement a Laplacian blob detector. **The assignment is due on 2016-10-22 at 11:59 pm.** The assignment and the data:
 
@@ -225,3 +225,33 @@ Calibrating a single camera.
 
 - [Forsyth and Ponce 1st chapter](https://www.dropbox.com/s/mfol1581hpd6fwy/Forsyth-Ponce-chapter-01.pdf?dl=0)
 - [Camera geometry and parameters](https://www.dropbox.com/s/2olqadczmsoevo7/01-lectura-geometria-camaras.pdf?dl=0)
+
+### Lecture 15: Single-view Modeling
+
+Measuring objects from a single image. 
+
+[Lecture 15 slides](https://www.dropbox.com/s/vwallrq77g7ilwk/lec15_single_view.pptx?dl=0)       
+
+#### Reading
+
+- [Ch. 2 from Hoiem and Savarese book](https://www.dropbox.com/s/k00o70g24ucsu2k/3dscene_book_svg.pdf?dl=0)
+
+### Lecture 16: Epipolar Geometry
+
+Two or more cameras. 
+
+[Lecture 16 slides](https://www.dropbox.com/s/mxjj19geha1r3lu/lec16_epipolar.pptx?dl=0)       
+
+#### Reading
+
+- [Forsyth and Ponce section 7.1](https://www.dropbox.com/s/52w4q1s7ysbg92n/Forsyth-Ponce-chapter-07-1-2.pdf?dl=0)
+
+
+### <mark>Assignment 5</mark> 
+
+The goal of this assignment is to implement robust homography and fundamental matrix estimation to register pairs of images separated either by a 2D or 3D projective transformation. **The assignment is due on 2016-11-19 at 11:59 pm.** The assignment and the data:
+
+- [Assignment 5](assignment5)
+
+[**Upload link**]()
+

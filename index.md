@@ -258,4 +258,5 @@ The goal of this assignment is to implement robust homography and fundamental ma
 #### Supporting material
 
 - [Homography estimation](https://www.dropbox.com/s/eqdbgotv1n82yz1/ex1.pdf?dl=0)
+- [Hartley and Zisserman - chapter 4](https://www.dropbox.com/s/ujqmwe6u8vrndr2/Richard%20Hartley%20Andrew%20Zisserman-Multiple%20View%20Geometry%20in%20Computer%20Vision%2C%202nd%20Edition%20%282004%29.pdf?dl=0)
 

@@ -7,7 +7,7 @@ title: 3D Vision
 
 ### Second semester 2017
 
-Andrés Marrugo, PhD
+Andrés Marrugo, PhD       
 *Universidad Tecnológica de Bolívar*
 
 ##  Aims and Scope
@@ -63,15 +63,16 @@ We will be discussing the main aspects and motivation for 3D computer vision. Al
 ### Assignment 1
 
 A summary of Linear Algebra and Probability exercises. **Due date:** 2017-08-25.
+
 [Assignment 1](pdfs/a1.pdf)
 
 ### Lecture 2: Sensors and Image Formation
 
 We will be studying the main aspects about image formation, the pinhole camera model and image sensors.
 
-[Lecture 2 slides](https://www.dropbox.com/s/i689m1hk7iuqdm0/lec02_SensorsAndImageFormation.pptx?dl=0)
-[Lecture 2  slides - other sensors](https://www.dropbox.com/s/a05dzdgus3febaw/lec02a_OtherSensors.pptx?dl=0)
-[Lecture 2 slides - examples](https://www.dropbox.com/s/566dawx0cetpkew/lec02_SensorsAndImageFormation-examples.pptx?dl=0)
+[Lecture 2 slides](https://www.dropbox.com/s/i689m1hk7iuqdm0/lec02_SensorsAndImageFormation.pptx?dl=0)      
+[Lecture 2  slides - other sensors](https://www.dropbox.com/s/a05dzdgus3febaw/lec02a_OtherSensors.pptx?dl=0)      
+[Lecture 2 slides - examples](https://www.dropbox.com/s/566dawx0cetpkew/lec02_SensorsAndImageFormation-examples.pptx?dl=0)      
 
 #### Reading
 

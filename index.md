@@ -63,7 +63,7 @@ We will be discussing the main aspects and motivation for 3D computer vision. Al
 
 A summary of Linear Algebra and Probability exercises. **Due date:** 2017-08-25.
 
-[Assignment 1]({{site.url}}/pdfs/a1.pdf)
+[Assignment 1]({{site.url}}pdfs/a1.pdf)
 
 ### Lecture 2: Sensors and Image Formation
 

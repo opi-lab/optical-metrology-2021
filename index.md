@@ -1,25 +1,31 @@
 ---
 layout: default
-title: Computer Vision
+title: 3D Vision
 ---
 
-# Computer Vision
+# 3D Vision
 
-### Second semester 2016
+### Second semester 2017
 
 Andrés Marrugo, PhD
 *Universidad Tecnológica de Bolívar*
 
 ##  Aims and Scope
 
-This semester course is an introduction to computer vision. It is aimed at graduate students in the Faculty of Engineering. We will focus on the practical and theoretical aspects of techniques in computer vision.
+This course covers the main techniques of 3D data acquisition, both passive (stereoscopic vision and multiple views) and active (active triangulation by structured light). The camera calibration process and the use of the geometric constraints of stereo systems are studied in detail in order to obtain adequate correspondences. Finally, the post-processing stages of three-dimensional vision systems are discussed: the representation of 3D images (e.g. through meshes, depth maps etc.), the extraction of characteristics and the recognition of 3D objects.
 
-At the end of the lectures, one would be able to:
+In this course the student will obtain proficiency in the fundamentals of stereo vision systems, the calibration of cameras, the geometric restrictions of stereoscopic systems (epipolar line, fundamental matrix, etc.) and carrying out the software implementation in simple applications. In addition, the student will learn the main active techniques of 3D image acquisition (active triangulation by structured light, and the basics of kinect, among others). Finally, different forms of representation of 3D images and their use in problems of computer vision will be presented.
+
+Prior knowledge of this course includes probability, linear algebra, and calculus. Programming experience in MATLAB is desirable, but not required.
+
+
+<!-- This semester course is an introduction to computer vision. It is aimed at graduate students in the Faculty of Engineering. We will focus on the practical and theoretical aspects of techniques in computer vision. -->
+
+<!-- At the end of the lectures, one would be able to:
 
 - Have clear idea of challenges in computer vision due to increasing use in mobile applications.
 - Understand many different computer vision algorithms and approaches.
-- Implement computer vision algorithms for mid-level vision tasks.
- 
+- Implement computer vision algorithms for mid-level vision tasks. -->
 
 
 ## Useful Resources
@@ -46,24 +52,33 @@ At the end of the lectures, one would be able to:
 
 This is a new course, this website will be updated as we go along.
 
-### Lecture 1: Introduction
+### Lecture 1: Introduction and Linear Algebra Resfresher 
 
-We will be discussing the main aspects and motivation for computer vision.
+We will be discussing the main aspects and motivation for 3D computer vision. Also a brief overview of the Linear Algebra involved in the course.
 
-[Lecture 1 slides](https://www.dropbox.com/s/mc5ijbj9onqua67/lec01_intro.pdf?dl=0)
+[Lecture 1 slides](https://www.dropbox.com/s/ebnty9s447enxsw/lec01_intro.pptx?dl=0)
 
-### Lecture 2: Perspective projection
+[Linear Algebra slides](https://www.dropbox.com/s/7c3ntm6ohw6ld9w/cs131_linalg_review.pptx?dl=0)
 
-We will be studying the main aspects about perspective projection and the pinhole camera model.
+### Assignment 1
 
-[Lecture 2 slides](https://www.dropbox.com/s/qtbrz67j4jfp2as/lec02_perspective.pdf?dl=0)
+A summary of Linear Algebra and Probability exercises. **Due date:** 2017-08-25.
+[Assignment 1](pdfs/a1.pdf)
+
+### Lecture 2: Sensors and Image Formation
+
+We will be studying the main aspects about image formation, the pinhole camera model and image sensors.
+
+[Lecture 2 slides](https://www.dropbox.com/s/i689m1hk7iuqdm0/lec02_SensorsAndImageFormation.pptx?dl=0)
+[Lecture 2  slides - other sensors](https://www.dropbox.com/s/a05dzdgus3febaw/lec02a_OtherSensors.pptx?dl=0)
+[Lecture 2 slides - examples](https://www.dropbox.com/s/566dawx0cetpkew/lec02_SensorsAndImageFormation-examples.pptx?dl=0)
 
 #### Reading
 
-- [Forsyth and Ponce 1st chapter](https://www.dropbox.com/s/mfol1581hpd6fwy/Forsyth-Ponce-chapter-01.pdf?dl=0)
-- [Camera geometry and parameters](https://www.dropbox.com/s/2olqadczmsoevo7/01-lectura-geometria-camaras.pdf?dl=0)
+- [Forsyth and Ponce 1.1,1.2 ](https://www.dropbox.com/s/mfol1581hpd6fwy/Forsyth-Ponce-chapter-01.pdf?dl=0)
+- [Camera geometry and parameters - 11.1, 11.2](https://www.dropbox.com/s/2olqadczmsoevo7/01-lectura-geometria-camaras.pdf?dl=0)
 
-### Assignment 1
+<!--### Assignment 1
 
 In this assignment you will study the basics of projective geometry. You will study the representations of points lines and planes, as well as transformations. **The assignment is due on 2016-09-02 at 11:00 pm.** The assignment and the data:
 
@@ -143,8 +158,8 @@ We will introduce the general approach towards image edge detection.
 
 We will introduce the general approach towards image edge detection.
 
-[Lecture 8 slides](https://www.dropbox.com/s/ibgtdylezx72abz/lec08_corner.pdf?dl=0)       
-[Harris corner detector](harris.m)      
+[Lecture 8 slides](https://www.dropbox.com/s/ibgtdylezx72abz/lec08_corner.pdf?dl=0)
+[Harris corner detector](harris.m)
 
 #### Reading
 
@@ -168,7 +183,7 @@ The goal of this assignment is to implement a Laplacian blob detector. **The ass
 
 We will introduce motion estimation in computer vision.
 
-[Lecture 10 slides](https://www.dropbox.com/s/6db7s4etomd0p21/lec10_optical_flow.pdf?dl=0)       
+[Lecture 10 slides](https://www.dropbox.com/s/6db7s4etomd0p21/lec10_optical_flow.pdf?dl=0)
 
 #### Reading
 
@@ -178,7 +193,7 @@ We will introduce motion estimation in computer vision.
 
 In this lecture we will discuss the main aspects of fitting data to a parametric model, especially under the assumption of noisy data.
 
-[Lecture 11 slides](https://www.dropbox.com/s/dqx065cez99pim2/lec11_fitting.pdf?dl=0)       
+[Lecture 11 slides](https://www.dropbox.com/s/dqx065cez99pim2/lec11_fitting.pdf?dl=0)
 
 #### Reading
 
@@ -189,7 +204,7 @@ In this lecture we will discuss the main aspects of fitting data to a parametric
 
 We continue on the topic of fitting, this time via the Hough Transform.
 
-[Lecture 12 slides](https://www.dropbox.com/s/ts2azv8nxcdi9lt/lec12_hough.pdf?dl=0)       
+[Lecture 12 slides](https://www.dropbox.com/s/ts2azv8nxcdi9lt/lec12_hough.pdf?dl=0)
 
 #### Reading
 
@@ -197,9 +212,9 @@ We continue on the topic of fitting, this time via the Hough Transform.
 
 ### Lecture 13: Alignment
 
-Registration or alignment is the problem of finding a transformation that takes one dataset to another. 
+Registration or alignment is the problem of finding a transformation that takes one dataset to another.
 
-[Lecture 13 slides](https://www.dropbox.com/s/4u45v4jwiqztxzy/lec13_alignment.pptx?dl=0)       
+[Lecture 13 slides](https://www.dropbox.com/s/4u45v4jwiqztxzy/lec13_alignment.pptx?dl=0)
 
 #### Reading
 
@@ -207,7 +222,7 @@ Registration or alignment is the problem of finding a transformation that takes 
 
 ### In class assignment 4
 
-The goal of this assignment is to implement a naive RANSAC line fiting. 
+The goal of this assignment is to implement a naive RANSAC line fiting.
 **The assignment is due on 2016-10-16 at 11:00 pm.**
 The code:
 
@@ -217,9 +232,9 @@ The code:
 
 ### Lecture 14: Calibration
 
-Calibrating a single camera. 
+Calibrating a single camera.
 
-[Lecture 14 slides](https://www.dropbox.com/s/lj8md9yf7gzo4eh/lec14_calibration.pptx?dl=0)       
+[Lecture 14 slides](https://www.dropbox.com/s/lj8md9yf7gzo4eh/lec14_calibration.pptx?dl=0)
 
 #### Reading
 
@@ -228,9 +243,9 @@ Calibrating a single camera.
 
 ### Lecture 15: Single-view Modeling
 
-Measuring objects from a single image. 
+Measuring objects from a single image.
 
-[Lecture 15 slides](https://www.dropbox.com/s/vwallrq77g7ilwk/lec15_single_view.pptx?dl=0)       
+[Lecture 15 slides](https://www.dropbox.com/s/vwallrq77g7ilwk/lec15_single_view.pptx?dl=0)
 
 #### Reading
 
@@ -238,16 +253,16 @@ Measuring objects from a single image.
 
 ### Lecture 16: Epipolar Geometry
 
-Two or more cameras. 
+Two or more cameras.
 
-[Lecture 16 slides](https://www.dropbox.com/s/mxjj19geha1r3lu/lec16_epipolar.pptx?dl=0)       
+[Lecture 16 slides](https://www.dropbox.com/s/mxjj19geha1r3lu/lec16_epipolar.pptx?dl=0)
 
 #### Reading
 
 - [Forsyth and Ponce section 7.1](https://www.dropbox.com/s/52w4q1s7ysbg92n/Forsyth-Ponce-chapter-07-1-2.pdf?dl=0)
 
 
-### <mark>Assignment 5</mark> 
+### <mark>Assignment 5</mark>
 
 The goal of this assignment is to implement robust homography and fundamental matrix estimation to register pairs of images separated either by a 2D or 3D projective transformation. **The assignment is due on 2016-12-02 at 12:00 m.** The assignment and the data:
 
@@ -259,4 +274,4 @@ The goal of this assignment is to implement robust homography and fundamental ma
 
 - [Homography estimation](https://www.dropbox.com/s/eqdbgotv1n82yz1/ex1.pdf?dl=0)
 - [Hartley and Zisserman - chapter 4](https://www.dropbox.com/s/ujqmwe6u8vrndr2/Richard%20Hartley%20Andrew%20Zisserman-Multiple%20View%20Geometry%20in%20Computer%20Vision%2C%202nd%20Edition%20%282004%29.pdf?dl=0)
-
+ -->

@@ -56,8 +56,7 @@ This is a new course, this website will be updated as we go along.
 
 We will be discussing the main aspects and motivation for 3D computer vision. Also a brief overview of the Linear Algebra involved in the course.
 
-[Lecture 1 slides](https://www.dropbox.com/s/ebnty9s447enxsw/lec01_intro.pptx?dl=0)
-
+[Lecture 1 slides](https://www.dropbox.com/s/ebnty9s447enxsw/lec01_intro.pptx?dl=0)      
 [Linear Algebra slides](https://www.dropbox.com/s/7c3ntm6ohw6ld9w/cs131_linalg_review.pptx?dl=0)
 
 ### Assignment 1

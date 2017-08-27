@@ -81,7 +81,7 @@ We will be studying the main aspects about image formation, the pinhole camera m
 
 ### <mark>Assignment 2</mark>
 
-Matlab basics and image formation. **Due date:** 2017-09-03..
+Matlab basics and image formation. **Due date:** 2017-09-03.
 
 - [Assignment 2]({{site.url}}pdfs/a2.pdf)
 - [**Upload link**](https://www.dropbox.com/request/7eDSQ1WB45O8NQrBEjb0)

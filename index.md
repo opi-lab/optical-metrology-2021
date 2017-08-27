@@ -56,8 +56,8 @@ This is a new course, this website will be updated as we go along.
 
 We will be discussing the main aspects and motivation for 3D computer vision. Also a brief overview of the Linear Algebra involved in the course.
 
-[Lecture 1 slides](https://www.dropbox.com/s/ebnty9s447enxsw/lec01_intro.pptx?dl=0)      
-[Linear Algebra slides](https://www.dropbox.com/s/7c3ntm6ohw6ld9w/cs131_linalg_review.pptx?dl=0)
+- [Lecture 1 slides](https://www.dropbox.com/s/ebnty9s447enxsw/lec01_intro.pptx?dl=0)      
+- [Linear Algebra slides](https://www.dropbox.com/s/7c3ntm6ohw6ld9w/cs131_linalg_review.pptx?dl=0)
 
 ### Assignment 1
 
@@ -69,14 +69,22 @@ A summary of Linear Algebra and Probability exercises. **Due date:** 2017-08-25.
 
 We will be studying the main aspects about image formation, the pinhole camera model and image sensors.
 
-[Lecture 2 slides](https://www.dropbox.com/s/i689m1hk7iuqdm0/lec02_SensorsAndImageFormation.pptx?dl=0)      
-[Lecture 2  slides - other sensors](https://www.dropbox.com/s/a05dzdgus3febaw/lec02a_OtherSensors.pptx?dl=0)      
-[Lecture 2 slides - examples](https://www.dropbox.com/s/566dawx0cetpkew/lec02_SensorsAndImageFormation-examples.pptx?dl=0)      
+- [Lecture 2 slides](https://www.dropbox.com/s/i689m1hk7iuqdm0/lec02_SensorsAndImageFormation.pptx?dl=0) 
+- [Lecture 2  slides - other sensors](https://www.dropbox.com/s/a05dzdgus3febaw/lec02a_OtherSensors.pptx?dl=0)      
+- [Lecture 2 slides - examples](https://www.dropbox.com/s/566dawx0cetpkew/lec02_SensorsAndImageFormation-examples.pptx?dl=0)      
 
 #### Reading
 
 - [Forsyth and Ponce 1.1,1.2 ](https://www.dropbox.com/s/mfol1581hpd6fwy/Forsyth-Ponce-chapter-01.pdf?dl=0)
 - [Camera geometry and parameters - 11.1, 11.2](https://www.dropbox.com/s/2olqadczmsoevo7/01-lectura-geometria-camaras.pdf?dl=0)
+
+
+### <mark>Assignment 2</mark>
+
+Matlab basics and image formation. **Due date:** 2017-09-03.
+
+- [Assignment 2]({{site.url}}pdfs/a2.pdf)
+- [**Upload link**](https://www.dropbox.com/request/7eDSQ1WB45O8NQrBEjb0)
 
 <!--### Assignment 1
 

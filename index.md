@@ -86,6 +86,13 @@ Matlab basics and image formation. **Due date:** 2017-09-03.
 - [Assignment 2]({{site.url}}pdfs/a2.pdf)
 - [**Upload link**](https://www.dropbox.com/request/7eDSQ1WB45O8NQrBEjb0)
 
+
+### Lecture 3: 2D-2D Coordinate transforms
+
+In this lecture we introduce 2D coordinate transforms.
+
+- [Lecture 3 slides](https://www.dropbox.com/s/2vq3c0jemu94585/lec03-2Dto2DcoordinateTransforms.pdf?dl=0) 
+
 <!--### Assignment 1
 
 In this assignment you will study the basics of projective geometry. You will study the representations of points lines and planes, as well as transformations. **The assignment is due on 2016-09-02 at 11:00 pm.** The assignment and the data:

@@ -93,6 +93,12 @@ In this lecture we introduce 2D coordinate transforms.
 
 - [Lecture 3 slides](https://www.dropbox.com/s/2vq3c0jemu94585/lec03-2Dto2DcoordinateTransforms.pdf?dl=0) 
 
+### Lecture 4: 3D-3D Coordinate transforms
+
+In this lecture we introduce 3D coordinate transforms.
+
+- [Lecture 4 slides](https://www.dropbox.com/s/lpdrc7i5y3cpij5/lec04-3Dto3DTransforms.pdf?dl=0) 
+
 <!--### Assignment 1
 
 In this assignment you will study the basics of projective geometry. You will study the representations of points lines and planes, as well as transformations. **The assignment is due on 2016-09-02 at 11:00 pm.** The assignment and the data:

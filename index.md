@@ -98,6 +98,14 @@ In this lecture we introduce 2D coordinate transforms.
 In this lecture we introduce 3D coordinate transforms.
 
 - [Lecture 4 slides](https://www.dropbox.com/s/lpdrc7i5y3cpij5/lec04-3Dto3DTransforms.pdf?dl=0) 
+- [3D Rotations](https://www.dropbox.com/s/tk73giauh9c4okl/lec04a-3DRotations.pdf?dl=0) 
+- [3D Rotations example]()
+
+#### Code
+
+- [showRotations.m]({{site.url}}code/showRotations.m)
+- [showRotations2.m]({{site.url}}code/showRotations2.m)
+
 
 #### Reading
 

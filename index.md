@@ -79,7 +79,7 @@ We will be studying the main aspects about image formation, the pinhole camera m
 - [Camera geometry and parameters - 11.1, 11.2](https://www.dropbox.com/s/2olqadczmsoevo7/01-lectura-geometria-camaras.pdf?dl=0)
 
 
-### <mark>Assignment 2</mark>
+### Assignment 2
 
 Matlab basics and image formation. **Due date:** 2017-09-03.
 
@@ -99,7 +99,7 @@ In this lecture we introduce 3D coordinate transforms.
 
 - [Lecture 4 slides](https://www.dropbox.com/s/lpdrc7i5y3cpij5/lec04-3Dto3DTransforms.pdf?dl=0) 
 - [3D Rotations](https://www.dropbox.com/s/tk73giauh9c4okl/lec04a-3DRotations.pdf?dl=0) 
-- [3D Rotations example]()
+- [3D Rotations example](https://www.dropbox.com/s/4y9577e2nzae4cx/lec04-3Dto3DTransforms-examples.pdf?dl=0)
 
 #### Code
 
@@ -111,9 +111,26 @@ In this lecture we introduce 3D coordinate transforms.
 
 - [J Craig - chap 2 ](https://www.dropbox.com/s/za66l0wj990qrs4/JCraig-Intro-Robotics-chap2.pdf?dl=0)
 
-### <mark>Quiz </mark>
+### Quiz 
 
 **2017-09-08** Quiz on Coordinate transforms.
+
+
+
+### <mark>Assignment 3</mark>
+
+Coordinate transforms. **Due date:** 2017-09-17.
+
+- [Assignment 3]({{site.url}}pdfs/a3.pdf)
+- [**Upload link**](https://www.dropbox.com/request/ryJlL1cVCqhZflUinIbD)
+
+
+
+### Lecture 5: 3D-2D Coordinate transforms
+
+In this lecture we recall perspective projection, this time from a matrix multiplication perspective.
+
+- [Lecture 5 slides](https://www.dropbox.com/s/34qxz8z6d3pcqd8/lec05-3Dto2DTransforms.pdf?dl=0)
 
 <!--### Assignment 1
 

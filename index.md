@@ -148,7 +148,7 @@ Linear filters, correlation, convolution kernel, smoothing and edge detection vi
 
 Manipulating Binary or logical images.
 
-- [Lecture 7 slides]()
+- [Lecture 7 slides](https://www.dropbox.com/s/g3livg9tu7323ty/lec07-BinaryImages.pdf?dl=0)
 - [Fig9.16(a).jpg](https://www.dropbox.com/s/3qji6985mfolo10/Fig9.16%28a%29.jpg?dl=0)
 - [Reading matlab movies](https://www.dropbox.com/s/t9u9e9hf2zqlcvl/Matlab_movies.pdf?dl=0)
 - [oneCC.mp4](https://www.dropbox.com/s/vjxiz41t0060rcf/oneCC.mp4?dl=0)

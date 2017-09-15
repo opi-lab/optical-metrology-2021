@@ -126,11 +126,41 @@ Coordinate transforms. **Due date:** 2017-09-17.
 
 
 
-### Lecture 5: 3D-2D Coordinate transforms
+### Lecture 5: 3D-2D Coordinate Transforms
 
 In this lecture we recall perspective projection, this time from a matrix multiplication perspective.
 
 - [Lecture 5 slides](https://www.dropbox.com/s/34qxz8z6d3pcqd8/lec05-3Dto2DTransforms.pdf?dl=0)
+
+
+### Lecture 6: Image Filtering
+
+Linear filters, correlation, convolution kernel, smoothing and edge detection via the gradient.
+
+- [Lecture 6 slides](https://www.dropbox.com/s/wmbab3vjatig7h2/lec06-ImageFiltering.pdf?dl=0)
+- [Lecture 6 examples](https://www.dropbox.com/s/mi8jnpxke9xnbud/lec06-ImageFiltering-examples.pdf?dl=0)
+
+#### Reading
+
+- [Forsyth and Ponce 4th chapter](https://www.dropbox.com/s/oojl3uuwlj8mohk/Forsyth-Ponce-chapter-04.pdf?dl=0)
+
+### Lecture 7: Binary Images
+
+Manipulating Binary or logical images.
+
+- [Lecture 7 slides]()
+- [Fig9.16(a).jpg](https://www.dropbox.com/s/3qji6985mfolo10/Fig9.16%28a%29.jpg?dl=0)
+- [Reading matlab movies](https://www.dropbox.com/s/t9u9e9hf2zqlcvl/Matlab_movies.pdf?dl=0)
+- [oneCC.mp4](https://www.dropbox.com/s/vjxiz41t0060rcf/oneCC.mp4?dl=0)
+- [robot.jpg](https://www.dropbox.com/s/s4fc4vrj2qrtuta/robot.jpg?dl=0)
+
+
+### <mark>Assignment 4</mark>
+
+Coordinate transforms. **Due date:** 2017-09-22.
+
+- [Assignment 4]({{site.url}}pdfs/a4.pdf)
+- [**Upload link**]()
 
 <!--### Assignment 1
 

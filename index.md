@@ -177,12 +177,21 @@ Dr Luis Mejías from Queensland University of Technology joins us to discuss abo
 
 ### Lecture 8: 2D Image transforms
 
-2D Image transforgmations and least squares fitting.
+2D Image transformations and least squares fitting.
 
 - [Lecture 8 slides](https://www.dropbox.com/s/k1kqjfi10n7f4qg/lec08-2DimageTransforms.pdf?dl=0)
 - [wall1.jpg](https://www.dropbox.com/s/bfovlzijhc4a0sv/wall1.jpg?dl=0)
 - [wall2.jpg](https://www.dropbox.com/s/ch6n4i8jzssqeae/wall2.jpg?dl=0)
-- 
+- [book_A.jpg](https://www.dropbox.com/s/hycrdoodgt2ezz6/book_A.jpg?dl=0)
+- [book_B.jpg](https://www.dropbox.com/s/sibi0reulitquq3/book_B.jpg?dl=0)
+
+### Lecture 9: Alignment using Nonlinear Least Squares
+
+Alignment using Newton's method.
+
+- [Lecture 9 slides](https://www.dropbox.com/s/kpi7abaan757iny/lec09-AlignmentNonlinear.pdf?dl=0)
+
+
 
 <!--### Assignment 1
 

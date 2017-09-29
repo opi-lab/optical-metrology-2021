@@ -153,11 +153,12 @@ Manipulating Binary or logical images.
 - [Reading matlab movies](https://www.dropbox.com/s/t9u9e9hf2zqlcvl/Matlab_movies.pdf?dl=0)
 - [oneCC.mp4](https://www.dropbox.com/s/vjxiz41t0060rcf/oneCC.mp4?dl=0)
 - [robot.jpg](https://www.dropbox.com/s/s4fc4vrj2qrtuta/robot.jpg?dl=0)
+- [fiveCC.mp4](https://www.dropbox.com/s/go255j6x4io40xx/fiveCC.mp4?dl=0)
 
 
 ### <mark>Assignment 4</mark>
 
-Coordinate transforms. **Due date:** 2017-09-22.
+Coordinate transforms. **Due date:** 2017-09-29.
 
 - [Assignment 4]({{site.url}}pdfs/a4.pdf)
 - [**Upload link**](https://www.dropbox.com/request/cyTpUDCgpI2qsiJORXOU)
@@ -174,7 +175,14 @@ Dr Luis Mejías from Queensland University of Technology joins us to discuss abo
 - [Mono SLAM tracking video](https://www.dropbox.com/s/ln4q4e7fsxkwixh/MonoSLAM_%20Real-Time%20Single%20Camera%20SLAM.mp4?dl=0)
 - [Simulators](https://www.dropbox.com/sh/afghfml8edxbrst/AADDava9rijJW9lAeXHOPWXxa?dl=0)
 
+### Lecture 8: 2D Image transforms
 
+2D Image transforgmations and least squares fitting.
+
+- [Lecture 8 slides](https://www.dropbox.com/s/k1kqjfi10n7f4qg/lec08-2DimageTransforms.pdf?dl=0)
+- [wall1.jpg](https://www.dropbox.com/s/bfovlzijhc4a0sv/wall1.jpg?dl=0)
+- [wall2.jpg](https://www.dropbox.com/s/ch6n4i8jzssqeae/wall2.jpg?dl=0)
+- 
 
 <!--### Assignment 1
 

@@ -160,7 +160,21 @@ Manipulating Binary or logical images.
 Coordinate transforms. **Due date:** 2017-09-22.
 
 - [Assignment 4]({{site.url}}pdfs/a4.pdf)
-- [**Upload link**]()
+- [**Upload link**](https://www.dropbox.com/request/cyTpUDCgpI2qsiJORXOU)
+
+### Guest Lecture: Visual SLAM
+
+Dr Luis Mejías from Queensland University of Technology joins us to discuss about Visual SLAM (Simultaneous Localization and Mapping).
+
+- [Lecture slides](https://www.dropbox.com/s/52048055bovvjvb/vSLAM.pdf?dl=0)
+- [Extended Kalman Filter tutorial](https://www.dropbox.com/s/ykech1nnszfgvju/tutorialEKF.pdf?dl=0)
+- [SLAM course](https://www.dropbox.com/s/fdmdhmwjnvk77ra/SLAM%20course.pdf?dl=0)
+- [Civera et al., Monocular SLAM](https://www.dropbox.com/s/w06zfr8567lkef0/civera_etal_tro2008.pdf?dl=0)
+- [Durrant-White et al., SLAM Essentials](https://www.dropbox.com/s/2gnw8joinbalf1g/10.1.1.128.4195.pdf?dl=0)
+- [Mono SLAM tracking video](https://www.dropbox.com/s/ln4q4e7fsxkwixh/MonoSLAM_%20Real-Time%20Single%20Camera%20SLAM.mp4?dl=0)
+- [Simulators](https://www.dropbox.com/sh/afghfml8edxbrst/AADDava9rijJW9lAeXHOPWXxa?dl=0)
+
+
 
 <!--### Assignment 1
 

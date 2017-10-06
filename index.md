@@ -191,7 +191,27 @@ Alignment using Newton's method.
 
 - [Lecture 9 slides](https://www.dropbox.com/s/kpi7abaan757iny/lec09-AlignmentNonlinear.pdf?dl=0)
 
+### Lecture 10: Pose estimation
 
+- [Lecture 10 slides](https://www.dropbox.com/s/i7gteeq06hnqp1n/lec10-PoseEstimation.pdf?dl=0)
+- [img1_rect.tif](https://www.dropbox.com/s/iz69p1a9kqgtjbs/img1_rect.tif?dl=0)
+- [img2_rect.tif](https://www.dropbox.com/s/dlok80yopxadu8d/img2_rect.tif?dl=0)
+- [img3_rect.tif](https://www.dropbox.com/s/twlw0jm1o64qw2y/img3_rect.tif?dl=0)
+
+#### Reading
+
+- [Szeliski 6.1-6.2 chapter](https://www.dropbox.com/s/u9m34caf30c0f6p/SzeliskiBook_20100903_draft.pdf?dl=0)
+
+### <mark>Assignment 5</mark>
+
+Correspondence problem. **Due date:** 2017-10-15.
+
+- [robot1.jpg](https://www.dropbox.com/s/avelpa3sq97upz2/robot1.jpg?dl=0)
+- [robot2.jpg](https://www.dropbox.com/s/btukc4w78e2qusi/robot2.jpg?dl=0)
+- [robot3.jpg](https://www.dropbox.com/s/cdhgzmguodc35mb/robot3.jpg?dl=0)
+
+- [Assignment 5]({{site.url}}pdfs/a5.pdf)
+- [**Upload link**]()
 
 <!--### Assignment 1
 

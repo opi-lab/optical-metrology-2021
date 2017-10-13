@@ -211,7 +211,28 @@ Correspondence problem. **Due date:** 2017-10-15.
 - [robot3.jpg](https://www.dropbox.com/s/cdhgzmguodc35mb/robot3.jpg?dl=0)
 
 - [Assignment 5]({{site.url}}pdfs/a5.pdf)
-- [**Upload link**]()
+- [**Upload link**](https://www.dropbox.com/request/RurYZ2moQKlDQ7TXzzvg)
+
+### Lecture 11: Corner detection
+
+We now describe how to detect features or salient points from an image.
+
+- [Lecture 11 slides](https://www.dropbox.com/s/jzf33ufob3p01j0/lec11-Corners.pdf?dl=0)
+- [Corner examples](https://www.dropbox.com/s/kt3zv9vgiqnkooi/lec11-Corners-examples.pdf?dl=0)
+- [test000.jpg](https://www.dropbox.com/s/x8udluvs20fid66/test000.jpg?dl=0)
+- [test012.jpg](https://www.dropbox.com/s/be6vk2yq6pn6p7w/test012.jpg?dl=0)
+
+#### Reading
+
+- [Szeliski 4.1 ](https://www.dropbox.com/s/u9m34caf30c0f6p/SzeliskiBook_20100903_draft.pdf?dl=0)
+
+### Lecture 12: SIFT
+
+In this lecture we will discuss Scale-Invariant Keypoints.
+
+#### Reading
+
+- Read [“Distinctive Image Features from Scale-Invariant Keypoints"](https://www.robots.ox.ac.uk/~vgg/research/affine/det_eval_files/lowe_ijcv2004.pdf) by D. Lowe.
 
 <!--### Assignment 1
 

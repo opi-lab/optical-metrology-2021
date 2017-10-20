@@ -230,9 +230,25 @@ We now describe how to detect features or salient points from an image.
 
 In this lecture we will discuss Scale-Invariant Keypoints.
 
+- [Lecture 12 slides](https://www.dropbox.com/s/vzu5tglvxa06kox/lec12-SIFT.pdf?dl=0)
+- [Lecture 12 - vlfeat slides](https://www.dropbox.com/s/ptqc2rudtploh50/lec12-SIFT-vlfeat.pdf?dl=0)
+- [vlfeat link](http://www.vlfeat.org/)
+- [grafitti.zip](https://www.dropbox.com/s/l9z3wy2atzu00dg/graffiti.zip?dl=0)
+
+
 #### Reading
 
 - Read [“Distinctive Image Features from Scale-Invariant Keypoints"](https://www.robots.ox.ac.uk/~vgg/research/affine/det_eval_files/lowe_ijcv2004.pdf) by D. Lowe.
+
+### Lecture 13: Linear Pose Estimation
+
+In this lecture we will discuss the direct estimation of a camera pose using matrix algebra.
+
+- [Lecture 13 slides](https://www.dropbox.com/s/shk02pqfowon4x3/lec13-LinearPoseEstimation.pdf?dl=0)
+
+#### Reading
+
+- [Szeliski 6.2 ](https://www.dropbox.com/s/u9m34caf30c0f6p/SzeliskiBook_20100903_draft.pdf?dl=0)
 
 <!--### Assignment 1
 

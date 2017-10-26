@@ -202,7 +202,7 @@ Alignment using Newton's method.
 
 - [Szeliski 6.1-6.2 chapter](https://www.dropbox.com/s/u9m34caf30c0f6p/SzeliskiBook_20100903_draft.pdf?dl=0)
 
-### <mark>Assignment 5</mark>
+### Assignment 5
 
 Correspondence problem. **Due date:** 2017-10-15.
 
@@ -258,7 +258,16 @@ In this course you are required to complete a short project, similar to the assi
 
 [Project proposals and guidelines](projects)
 
+### <mark>Assignment 6</mark>
 
+Correspondence problem. **Due date:** 2017-11-05.
+
+- [robot1.jpg](https://www.dropbox.com/s/avelpa3sq97upz2/robot1.jpg?dl=0)
+- [robot2.jpg](https://www.dropbox.com/s/btukc4w78e2qusi/robot2.jpg?dl=0)
+- [robot3.jpg](https://www.dropbox.com/s/cdhgzmguodc35mb/robot3.jpg?dl=0)
+
+- [Assignment 6]({{site.url}}pdfs/a6.pdf)
+- [**Upload link**](https://www.dropbox.com/request/DtiEuucWqwitxD3pzRMd)
 
 <!--### Assignment 1
 

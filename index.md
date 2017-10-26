@@ -250,6 +250,16 @@ In this lecture we will discuss the direct estimation of a camera pose using mat
 
 - [Szeliski 6.2 ](https://www.dropbox.com/s/u9m34caf30c0f6p/SzeliskiBook_20100903_draft.pdf?dl=0)
 
+### Projects
+
+In this course you are required to complete a short project, similar to the assignments, but you are free to choose the approach and the implementation. You will work in teams of two and you will deliver a project report in the IEEE paper format and a 15 minute presentation. 
+
+**The project is due December 15th.**
+
+[Project proposals and guidelines](projects)
+
+
+
 <!--### Assignment 1
 
 In this assignment you will study the basics of projective geometry. You will study the representations of points lines and planes, as well as transformations. **The assignment is due on 2016-09-02 at 11:00 pm.** The assignment and the data:

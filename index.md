@@ -245,6 +245,7 @@ In this lecture we will discuss Scale-Invariant Keypoints.
 In this lecture we will discuss the direct estimation of a camera pose using matrix algebra.
 
 - [Lecture 13 slides](https://www.dropbox.com/s/shk02pqfowon4x3/lec13-LinearPoseEstimation.pdf?dl=0)
+- [Lecture 13 examples](https://www.dropbox.com/s/83mnp69dcfhxx56/lec13-LinearPoseEstimation-examples.pdf?dl=0)
 
 #### Reading
 
@@ -268,6 +269,25 @@ Correspondence problem. **Due date:** 2017-11-05.
 
 - [Assignment 6]({{site.url}}pdfs/a6.pdf)
 - [**Upload link**](https://www.dropbox.com/request/DtiEuucWqwitxD3pzRMd)
+
+### Lecture 14: Stereo
+
+In this lecture we will discuss stereo vision.
+
+- [Lecture 14 slides](https://www.dropbox.com/s/o2t9uenlpl4sa52/lec14-Stereo.pdf?dl=0)
+- [pentagonLeft.png](https://www.dropbox.com/s/jhmziwn1l0w5rs4/pentagonLeft.png?dl=0)
+- [pentagonRight.png](https://www.dropbox.com/s/dfk72xyav2vnrlj/pentagonRight.png?dl=0)
+- [left.png](https://www.dropbox.com/s/ghvdk85ado0gxlq/left.png?dl=0)
+- [right.png](https://www.dropbox.com/s/sqbp48p2x5q9wtw/right.png?dl=0)
+- [stereo_ball.m](https://www.dropbox.com/s/kiwpp6kiz5umasb/stereo_ball.m?dl=0)
+- [Lecture 13 examples](https://www.dropbox.com/s/83mnp69dcfhxx56/lec13-LinearPoseEstimation-examples.pdf?dl=0)
+
+<!-- #### Reading
+
+- [Szeliski 6.2 ](https://www.dropbox.com/s/u9m34caf30c0f6p/SzeliskiBook_20100903_draft.pdf?dl=0) -->
+
+
+
 
 <!--### Assignment 1
 

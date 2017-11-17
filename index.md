@@ -282,6 +282,27 @@ In this lecture we will discuss stereo vision.
 - [stereo_ball.m](https://www.dropbox.com/s/kiwpp6kiz5umasb/stereo_ball.m?dl=0)
 - [Lecture 13 examples](https://www.dropbox.com/s/83mnp69dcfhxx56/lec13-LinearPoseEstimation-examples.pdf?dl=0)
 
+
+### Lecture 15: Stereo
+
+In this lecture we will discuss stereo vision.
+
+- [Lecture 15 slides](https://www.dropbox.com/s/4ju0izpd69mcu4i/lec15-EpipolarAndEssential.pdf?dl=0)
+- [Lecture 15 examples](lec15-EpipolarAndEssential-examples.pdf)
+- [programs and images](https://www.dropbox.com/s/crnm8rwj8qv0kmz/Archive.zip?dl=0)
+
+### Lecture 16: Structure from Motion
+
+In this lecture we will discuss structure from motion.
+
+- [Lecture 16 slides](https://www.dropbox.com/s/viyfbdg4gfx15g9/lec16-StructureFromMotion.pdf?dl=0)
+
+### Lecture 17: Structured Light
+
+In this lecture we will discuss structured light systems.
+
+- [Lecture 17 slides](https://www.dropbox.com/s/8vjlaylblslywlp/lec17-StructuredLight.pdf?dl=0)
+
 <!-- #### Reading
 
 - [Szeliski 6.2 ](https://www.dropbox.com/s/u9m34caf30c0f6p/SzeliskiBook_20100903_draft.pdf?dl=0) -->

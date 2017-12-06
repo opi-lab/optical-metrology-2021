@@ -282,6 +282,14 @@ In this lecture we will discuss stereo vision.
 - [stereo_ball.m](https://www.dropbox.com/s/kiwpp6kiz5umasb/stereo_ball.m?dl=0)
 - [Lecture 13 examples](https://www.dropbox.com/s/83mnp69dcfhxx56/lec13-LinearPoseEstimation-examples.pdf?dl=0)
 
+
+### Final exam
+
+In this final exam
+
+- [Exam]({{site.url}}pdfs/exam-vision-3D.pdf)
+- [Upload link](https://www.dropbox.com/request/l62BNcI5xKkIm7svacno)
+
 <!-- #### Reading
 
 - [Szeliski 6.2 ](https://www.dropbox.com/s/u9m34caf30c0f6p/SzeliskiBook_20100903_draft.pdf?dl=0) -->

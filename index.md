@@ -283,12 +283,34 @@ In this lecture we will discuss stereo vision.
 - [Lecture 13 examples](https://www.dropbox.com/s/83mnp69dcfhxx56/lec13-LinearPoseEstimation-examples.pdf?dl=0)
 
 
+<<<<<<< HEAD
 ### Final exam
 
 In this final exam
 
 - [Exam]({{site.url}}pdfs/exam-vision-3D.pdf)
 - [Upload link](https://www.dropbox.com/request/l62BNcI5xKkIm7svacno)
+=======
+### Lecture 15: Stereo
+
+In this lecture we will discuss stereo vision.
+
+- [Lecture 15 slides](https://www.dropbox.com/s/4ju0izpd69mcu4i/lec15-EpipolarAndEssential.pdf?dl=0)
+- [Lecture 15 examples](lec15-EpipolarAndEssential-examples.pdf)
+- [programs and images](https://www.dropbox.com/s/crnm8rwj8qv0kmz/Archive.zip?dl=0)
+
+### Lecture 16: Structure from Motion
+
+In this lecture we will discuss structure from motion.
+
+- [Lecture 16 slides](https://www.dropbox.com/s/viyfbdg4gfx15g9/lec16-StructureFromMotion.pdf?dl=0)
+
+### Lecture 17: Structured Light
+
+In this lecture we will discuss structured light systems.
+
+- [Lecture 17 slides](https://www.dropbox.com/s/8vjlaylblslywlp/lec17-StructuredLight.pdf?dl=0)
+>>>>>>> cd075fa477626e08bb4df75d7882b9715b1a1cb3
 
 <!-- #### Reading
 

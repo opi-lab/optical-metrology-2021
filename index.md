@@ -305,7 +305,7 @@ In this lecture we will discuss structured light systems.
 
 ### Final exam
 
-In this final exam
+The exam is 3 hours and you may use any resources, (MATLAB, Books, slides, etc.). However, provide full answers. These may be done by hand and scanned. Please make everything as clear as possible. 
 
 - [Exam]({{site.url}}pdfs/exam-vision-3D.pdf)
 - [Upload link](https://www.dropbox.com/request/l62BNcI5xKkIm7svacno)

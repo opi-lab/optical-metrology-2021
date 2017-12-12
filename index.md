@@ -260,6 +260,7 @@ In this course you are required to complete a short project, similar to the assi
 - [Project proposals and guidelines](projects)
 - [Upload link](https://www.dropbox.com/request/uVtOjLHz2tlwMhXbgpSv)
 
+
 ### Assignment 6
 
 Correspondence problem. **Due date:** 2017-11-05.

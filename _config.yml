@@ -1,10 +1,10 @@
 # Site settings
-title: 3D Vision
+title: Optical Metrology
 description: >
-  Lecture notes on the graduate course 3D Vision @ Universidad Tecnológica de Bolívar
+  Lecture notes on the graduate course Optical Metrology @ Universidad Tecnológica de Bolívar
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://opi-lab.github.io/3d-vision/" # the base hostname & protocol for your site
+url: "https://opi-lab.github.io/optical-metrology-2019/" # the base hostname & protocol for your site
 
 #source: /
 # destination: /_site/

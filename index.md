@@ -60,24 +60,24 @@ This website will be updated as we go along.
 
 We will be discussing the main aspects about metrology and why it is so important in manufacturing. 
 
-[Lecture 1 slides](lectures/Lecture_01.pdf)
+[Lecture 1 slides]({{site.url}}lectures/Lecture_01.pdf)
 
 #### Optional Reading
 
-- [Optical metrology overview](pdfs/01-optical-metrology-overview.pdf)
+- [Optical metrology overview]({{site.url}}pdfs/01-optical-metrology-overview.pdf)
 
 ### Lecture 2: Random Data and Characterization of Measurement Systems
 
 In this lecture we will be discussing about random data, their properties and measurement systems. We will also discuss static and dynamic characterization of measurement systems.
 
-[Lecture 2 slides](lectures/Lecture_02.pdf)
+[Lecture 2 slides]({{site.url}}lectures/Lecture_02.pdf)
 
 #### Recommended Readings
 
-- [J Bendat and A Piersol - Random Data - Chapter 1](pdfs/02-Bendat-Piersol-chapter-01.pdf)
-- [A student's guide to Data and Error Analysis - Chapter 5 and 7](pdfs/guide-to-data-and-error-analysis.pdf)
-- [A Beginner's Guide to Uncertainty of Measurement](pdfs/mgpg11.pdf)
-- [Linear regression](https://en.wikipedia.org/wiki/Regression_analysis#Linear_regression "Regression analysis - Wikipedia, the free encyclopedia")
+- [J Bendat and A Piersol - Random Data - Chapter 1]({{site.url}}pdfs/02-Bendat-Piersol-chapter-01.pdf)
+- [A student's guide to Data and Error Analysis - Chapter 5 and 7]({{site.url}}pdfs/guide-to-data-and-error-analysis.pdf)
+- [A Beginner's Guide to Uncertainty of Measurement]({{site.url}}pdfs/mgpg11.pdf)
+- [Linear regression]({{site.url}}https://en.wikipedia.org/wiki/Regression_analysis#Linear_regression "Regression analysis - Wikipedia, the free encyclopedia")
 
 
 <!-- ### Lecture 1: Introduction

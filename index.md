@@ -66,11 +66,23 @@ We will be discussing the main aspects about metrology and why it is so importan
 
 - [Optical metrology overview]({{site.url}}pdfs/01-optical-metrology-overview.pdf)
 
-### Lecture 2: Random Data and Characterization of Measurement Systems
+### Lecture 2: Methods in Surface Metrology
+We will first dive into this topic to do a lab practice next friday March 1st. In this lecture we introduce several basic concepts about surface measurements and characterization. The quantification of roughness and the different roughness scores. How roughness is related to the manufacturing process.
+
+Please read the *Robust 3D surface recovery paper* below.
+
+[Lecture 2 slides]({{site.url}}lectures/Lecture_04.pdf)
+
+#### Readings
+
+- [Robust 3D surface recovery paper](https://arxiv.org/abs/1901.08153)
+- [David Whitehose - Surfaces and their Measurement - Chapters 2 and 4](pdfs/whitehouse-surfaces-and-their-measurement-(2002).pdf)
+
+### Lecture 3: Random Data and Characterization of Measurement Systems
 
 In this lecture we will be discussing about random data, their properties and measurement systems. We will also discuss static and dynamic characterization of measurement systems.
 
-[Lecture 2 slides]({{site.url}}lectures/Lecture_02.pdf)
+[Lecture 3 slides]({{site.url}}lectures/Lecture_02.pdf)
 
 #### Recommended Readings
 

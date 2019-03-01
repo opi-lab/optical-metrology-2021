@@ -78,6 +78,13 @@ Please read the *Robust 3D surface recovery paper* below.
 - [Robust 3D surface recovery paper](https://arxiv.org/abs/1901.08153)
 - [David Whitehose - Surfaces and their Measurement - Chapters 2 and 4](pdfs/whitehouse-surfaces-and-their-measurement-(2002).pdf)
 
+### Assignment 1
+
+Surface roughness characterization. **Due date:** 2019-04-01.
+
+- [Assignment 1]({{site.url}}pdfs/Roughness-activity-presentation.pdf)
+- [White-Light Interference 3D Microscopes]({{site.url}}pdfs/10-kevin-g-harding-handbook-of-optical-dimensional-metrology-wli-microscopy.pdf)
+
 ### Lecture 3: Random Data and Characterization of Measurement Systems
 
 In this lecture we will be discussing about random data, their properties and measurement systems. We will also discuss static and dynamic characterization of measurement systems.

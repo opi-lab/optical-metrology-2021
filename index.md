@@ -85,11 +85,22 @@ Surface roughness characterization. **Due date:** 2019-04-01.
 - [Assignment 1]({{site.url}}pdfs/Roughness-activity-presentation.pdf)
 - [White-Light Interference 3D Microscopes]({{site.url}}pdfs/10-kevin-g-harding-handbook-of-optical-dimensional-metrology-wli-microscopy.pdf)
 
-### Lecture 3: Random Data and Characterization of Measurement Systems
+### Lecture 3: Basic Optical Principles and Imaging Systems
+
+In this lecture we will discuss the Basic Optical Principles and Imaging Systems.
+
+[Lecture 3 slides]({{site.url}}lectures/Lecture_03.pdf)
+
+#### Recommended Readings
+
+- [Gasvik - Optical Metrology - Chapters 1 and 2]({{site.url}}pdfs/gasvik-01-02.pdf)
+- [Giancoli - Optical Instruments]({{site.url}}pdfs/giancoli-ch-25-optical-instruments.pdf)
+
+### Lecture 4: Random Data and Characterization of Measurement Systems
 
 In this lecture we will be discussing about random data, their properties and measurement systems. We will also discuss static and dynamic characterization of measurement systems.
 
-[Lecture 3 slides]({{site.url}}lectures/Lecture_02.pdf)
+[Lecture 4 slides]({{site.url}}lectures/Lecture_02.pdf)
 
 #### Recommended Readings
 

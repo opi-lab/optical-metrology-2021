@@ -80,10 +80,12 @@ Please read the *Robust 3D surface recovery paper* below.
 
 ### Assignment 1
 
-Surface roughness characterization. **Due date:** 2019-04-01.
+Surface roughness characterization. **Due date:** 2019-04-20.
 
 - [Assignment 1]({{site.url}}pdfs/Roughness-activity-presentation.pdf)
 - [White-Light Interference 3D Microscopes]({{site.url}}pdfs/10-kevin-g-harding-handbook-of-optical-dimensional-metrology-wli-microscopy.pdf)
+- [Standard 3D matlab .mat file](https://www.dropbox.com/s/f9tr9z18bwoxu8c/standard_R3D.mat?dl=0)
+- [Standard 3D in csv format](https://www.dropbox.com/sh/cpt4x2xopdrqkbj/AACJpXsd-GhgCfWLlcpL9wJFa?dl=0)
 
 ### Lecture 3: Basic Optical Principles and Imaging Systems
 

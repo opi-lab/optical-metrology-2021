@@ -111,6 +111,26 @@ In this lecture we will be discussing about random data, their properties and me
 - [A Beginner's Guide to Uncertainty of Measurement]({{site.url}}pdfs/mgpg11.pdf)
 - [Linear regression]({{site.url}}https://en.wikipedia.org/wiki/Regression_analysis#Linear_regression "Regression analysis - Wikipedia, the free encyclopedia")
 
+### Lecture 4: Cont'd
+
+In this lecture we focus on practical aspects and calculations of characterization of measurement systems, calibration and uncertainty via confidence interval estimation.
+
+For the calculations we will be using Python via Ipython (Jupyter) notebooks. Please [download the Anaconda](https://www.continuum.io/downloads) distribution that contains Python and many more scientific packages.
+
+The notebooks for this lecture:
+
+- Illustration of Confidence Intervals ([View](http://nbviewer.jupyter.org/github/agmarrugo/optical-metrology/blob/gh-pages/notebooks/confidence-intervals.ipynb), [Download](https://github.com/agmarrugo/optical-metrology/tree/gh-pages)).
+- Calibration ([View](http://nbviewer.jupyter.org/github/agmarrugo/optical-metrology/blob/gh-pages/notebooks/calibracion.ipynb), [Download](https://github.com/agmarrugo/optical-metrology/tree/gh-pages)).
+
+Exercise:
+
+- [Fiting data.](http://nbviewer.jupyter.org/github/agmarrugo/optical-metrology/blob/gh-pages/notebooks/fitting.ipynb)
+
+#### Recommended Readings
+
+- [A Statistical Overview on Univariate Calibration, Inverse Regression, and Detection Limits]({{site.url}}pdfs/Mass_Spectrom._Rev._Lavagnini_2006.pdf)
+- [Notes on device calibration]({{site.url}}pdfs/03-NoteDeviceCalibration.pdf)
+- [J Bendat and A Piersol - Statistical Principles  - Chapter 4]({{site.url}}pdfs/04-Bendat-Piersol-chapter-04.pdf)
 
 <!-- ### Lecture 1: Introduction
 

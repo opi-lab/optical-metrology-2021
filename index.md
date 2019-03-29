@@ -87,6 +87,11 @@ Surface roughness characterization. **Due date:** 2019-04-20.
 - [Standard 3D matlab .mat file](https://www.dropbox.com/s/f9tr9z18bwoxu8c/standard_R3D.mat?dl=0)
 - [Standard 3D in csv format](https://www.dropbox.com/sh/cpt4x2xopdrqkbj/AACJpXsd-GhgCfWLlcpL9wJFa?dl=0)
 
+#### Suplementary material for assignment 1
+
+[David J. Whitehouse-Surfaces and their Measurement Chap 1 and 2](https://www.dropbox.com/s/d4mcz2v2hkyq5lm/David%20J.%20Whitehouse-Surfaces%20and%20their%20Measurement%20%282002%29.pdf?dl=0)
+[Specification-iso-4287](https://www.dropbox.com/s/nbri2six0kqbeuc/Specification-iso-4287.pdf?dl=0)
+
 ### Lecture 3: Basic Optical Principles and Imaging Systems
 
 In this lecture we will discuss the Basic Optical Principles and Imaging Systems.

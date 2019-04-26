@@ -137,6 +137,13 @@ Exercise:
 - [Notes on device calibration]({{site.url}}pdfs/03-NoteDeviceCalibration.pdf)
 - [J Bendat and A Piersol - Statistical Principles  - Chapter 4]({{site.url}}pdfs/04-Bendat-Piersol-chapter-04.pdf)
 
+
+### Lecture 5: Interferometry
+
+In this lecture we will be discussing about the fundamentals of interferometry and its applications.
+
+[Lecture 5 slides]({{site.url}}lectures/Lecture_05.pdf)
+
 <!-- ### Lecture 1: Introduction
 
 We will be discussing the main aspects and motivation for 3D computer vision. Also a brief overview of the Linear Algebra involved in the course.

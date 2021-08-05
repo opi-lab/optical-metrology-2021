@@ -60,7 +60,7 @@ This website will be updated as we go along.
 
 We will be discussing the main aspects about metrology and why it is so important in manufacturing. 
 
-[Lecture 1 slides]({{site.url}}lectures/Lecture_01.pdf)
+[Lecture 1 slides]({{site.url}}lectures/Lecture_01_.pdf)
 
 #### Optional Reading
 

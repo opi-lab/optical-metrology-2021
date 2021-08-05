@@ -5,7 +5,7 @@ title: Optical Metrology
 
 # Optical Metrology
 
-### First semester 2019
+### Second semester 2021
 
 Andrés Marrugo, PhD       
 *Universidad Tecnológica de Bolívar*

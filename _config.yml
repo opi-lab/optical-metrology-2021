@@ -4,7 +4,7 @@ description: >
   Lecture notes on the graduate course Optical Metrology @ Universidad Tecnológica de Bolívar
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://opi-lab.github.io/optical-metrology-2019/" # the base hostname & protocol for your site
+url: "https://opi-lab.github.io/optical-metrology-2021/" # the base hostname & protocol for your site
 
 #source: /
 # destination: /_site/

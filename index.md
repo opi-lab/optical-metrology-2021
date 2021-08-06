@@ -60,7 +60,7 @@ We will be discussing the main aspects about metrology and why it is so importan
 
 [Lecture 1 slides]({{site.url}}lectures/Lecture_01.pdf)
 
-#### Optional Reading
+#### Additional Reading
 
 - [Optical metrology overview]({{site.url}}pdfs/01-optical-metrology-overview.pdf)
 - [SI redefinition](https://www.nist.gov/si-redefinition)

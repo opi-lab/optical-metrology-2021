@@ -43,6 +43,10 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 
 - [Linear algebra review](http://www.cse.ucsd.edu/classes/wi05/cse252a/linear_algebra_review.pdf)
 - [Random variables review](http://www.cse.ucsd.edu/classes/wi05/cse252a/random_var_review.pdf)
+- [Linear algebra with Numpy](https://github.com/agmarrugo/computer-vision-utb/blob/main/notebooks/00_Linear_algebra_with_Numpy.ipynb)
+- [Manipulating images in Python/OpenCV](https://github.com/agmarrugo/computer-vision-utb/blob/main/notebooks/01_Image_Processing_in_Python_Final.ipynb)
+- [Data analysis with Pandas](https://github.com/drvinceknight/Python-Mathematics-Handbook/blob/master/03-Data-analysis-with-Pandas.ipynb)
+- [Visualisation with matplotlib](https://github.com/drvinceknight/Python-Mathematics-Handbook/blob/master/04-Visualisation-with-matplotlib.ipynb)
 
 
 

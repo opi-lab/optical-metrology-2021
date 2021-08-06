@@ -32,24 +32,18 @@ At the end of the lectures, one would be able to:
 - Implement computer vision algorithms for mid-level vision tasks. -->
 
 
-<!-- ## Useful Resources
+## Useful Resources
+ 
+We will be using Jupyter Python notebooks as a numerical computing and graphical platform for solving many problems in the course. To avoid installing Jupyter Python locally, I encourage you to use Google Colab. 
+
+- [Python Tutorial](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb)
+- [Introduction to colab](https://colab.research.google.com/notebooks/welcome.ipynb)
 
 ### Tutorials, review materials
 
-- [MATLAB tutorial](matlab.intro.html)
-- More MATLAB tutorials: [basic operations][bo], [programming][pro], [working with images][wim]
 - [Linear algebra review](http://www.cse.ucsd.edu/classes/wi05/cse252a/linear_algebra_review.pdf)
 - [Random variables review](http://www.cse.ucsd.edu/classes/wi05/cse252a/random_var_review.pdf)
 
-[bo]: matlab_ops_tutorial.m
-[pro]:matlab_prog_tutorial.m
-[wim]: matlab_image_tutorial.m
-
-### MATLAB reference
-
-- [MATLAB guide from Mathworks](http://www.mathworks.com/access/helpdesk/help/techdoc/matlab.html)
-- [MATLAB image processing toolbox](http://www.mathworks.com/access/helpdesk/help/toolbox/images/)
-- [Writing fast code](http://www.mathworks.com/matlabcentral/fileexchange/5685) -->
 
 
 ## Outline
@@ -60,11 +54,12 @@ This website will be updated as we go along.
 
 We will be discussing the main aspects about metrology and why it is so important in manufacturing. 
 
-[Lecture 1 slides]({{site.url}}lectures/Lecture_01_.pdf)
+[Lecture 1 slides]({{site.url}}lectures/Lecture_01.pdf)
 
 #### Optional Reading
 
 - [Optical metrology overview]({{site.url}}pdfs/01-optical-metrology-overview.pdf)
+- [SI redefinition](https://www.nist.gov/si-redefinition)
 
 <!--
 

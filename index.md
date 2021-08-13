@@ -70,7 +70,7 @@ We will be discussing the main aspects about metrology and why it is so importan
 
 In this lecture we will be discussing about random data, their properties and measurement systems. We will also discuss static and dynamic characterization of measurement systems.
 
-[Lecture 4 slides]({{site.url}}lectures/Lecture_02.pdf)
+[Lecture 2 slides]({{site.url}}lectures/Lecture_02.pdf)
 
 #### Recommended Readings
 

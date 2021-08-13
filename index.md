@@ -65,6 +65,41 @@ We will be discussing the main aspects about metrology and why it is so importan
 - [Optical metrology overview]({{site.url}}pdfs/01-optical-metrology-overview.pdf)
 - [SI redefinition](https://www.nist.gov/si-redefinition)
 
+
+### Lecture 2: Random Data and Characterization of Measurement Systems
+
+In this lecture we will be discussing about random data, their properties and measurement systems. We will also discuss static and dynamic characterization of measurement systems.
+
+[Lecture 4 slides]({{site.url}}lectures/Lecture_02.pdf)
+
+#### Recommended Readings
+
+- [J Bendat and A Piersol - Random Data - Chapter 1]({{site.url}}pdfs/02-Bendat-Piersol-chapter-01.pdf)
+- [A student's guide to Data and Error Analysis - Chapter 5 and 7]({{site.url}}pdfs/guide-to-data-and-error-analysis.pdf)
+- [A Beginner's Guide to Uncertainty of Measurement]({{site.url}}pdfs/mgpg11.pdf)
+- [Linear regression]({{site.url}}https://en.wikipedia.org/wiki/Regression_analysis#Linear_regression "Regression analysis - Wikipedia, the free encyclopedia")
+
+### Lecture 2: Cont'd
+
+In this lecture we focus on practical aspects and calculations of characterization of measurement systems, calibration and uncertainty via confidence interval estimation.
+
+For the calculations we will be using Python via Jupyter notebooks. You can [download the Anaconda](https://www.continuum.io/downloads) distribution that contains Python and many more scientific packages or use [Google Colab](http://colab.research.google.com/).
+
+The notebooks for this lecture:
+
+- Illustration of Confidence Intervals ([View](http://nbviewer.jupyter.org/github/opilab/optical-metrology-2021/blob/gh-pages/notebooks/confidence-intervals.ipynb).
+- Calibration ([View](http://nbviewer.jupyter.org/github/opilab/optical-metrology-2021/blob/gh-pages/notebooks/calibracion.ipynb).
+
+Exercise:
+
+- [Fiting data.](http://nbviewer.jupyter.org/github/opilab/optical-metrology-2021/blob/gh-pages/notebooks/fitting.ipynb)
+
+#### Recommended Readings
+
+- [A Statistical Overview on Univariate Calibration, Inverse Regression, and Detection Limits]({{site.url}}pdfs/Mass_Spectrom._Rev._Lavagnini_2006.pdf)
+- [Notes on device calibration]({{site.url}}pdfs/03-NoteDeviceCalibration.pdf)
+- [J Bendat and A Piersol - Statistical Principles  - Chapter 4]({{site.url}}pdfs/04-Bendat-Piersol-chapter-04.pdf)
+
 <!--
 
 ### Lecture 2: Methods in Surface Metrology
@@ -104,39 +139,7 @@ In this lecture we will discuss the Basic Optical Principles and Imaging Systems
 - [Gasvik - Optical Metrology - Chapters 1 and 2]({{site.url}}pdfs/gasvik-01-02.pdf)
 - [Giancoli - Optical Instruments]({{site.url}}pdfs/giancoli-ch-25-optical-instruments.pdf)
 
-### Lecture 4: Random Data and Characterization of Measurement Systems
 
-In this lecture we will be discussing about random data, their properties and measurement systems. We will also discuss static and dynamic characterization of measurement systems.
-
-[Lecture 4 slides]({{site.url}}lectures/Lecture_02.pdf)
-
-#### Recommended Readings
-
-- [J Bendat and A Piersol - Random Data - Chapter 1]({{site.url}}pdfs/02-Bendat-Piersol-chapter-01.pdf)
-- [A student's guide to Data and Error Analysis - Chapter 5 and 7]({{site.url}}pdfs/guide-to-data-and-error-analysis.pdf)
-- [A Beginner's Guide to Uncertainty of Measurement]({{site.url}}pdfs/mgpg11.pdf)
-- [Linear regression]({{site.url}}https://en.wikipedia.org/wiki/Regression_analysis#Linear_regression "Regression analysis - Wikipedia, the free encyclopedia")
-
-### Lecture 4: Cont'd
-
-In this lecture we focus on practical aspects and calculations of characterization of measurement systems, calibration and uncertainty via confidence interval estimation.
-
-For the calculations we will be using Python via Ipython (Jupyter) notebooks. Please [download the Anaconda](https://www.continuum.io/downloads) distribution that contains Python and many more scientific packages.
-
-The notebooks for this lecture:
-
-- Illustration of Confidence Intervals ([View](http://nbviewer.jupyter.org/github/agmarrugo/optical-metrology/blob/gh-pages/notebooks/confidence-intervals.ipynb), [Download](https://github.com/agmarrugo/optical-metrology/tree/gh-pages)).
-- Calibration ([View](http://nbviewer.jupyter.org/github/agmarrugo/optical-metrology/blob/gh-pages/notebooks/calibracion.ipynb), [Download](https://github.com/agmarrugo/optical-metrology/tree/gh-pages)).
-
-Exercise:
-
-- [Fiting data.](http://nbviewer.jupyter.org/github/agmarrugo/optical-metrology/blob/gh-pages/notebooks/fitting.ipynb)
-
-#### Recommended Readings
-
-- [A Statistical Overview on Univariate Calibration, Inverse Regression, and Detection Limits]({{site.url}}pdfs/Mass_Spectrom._Rev._Lavagnini_2006.pdf)
-- [Notes on device calibration]({{site.url}}pdfs/03-NoteDeviceCalibration.pdf)
-- [J Bendat and A Piersol - Statistical Principles  - Chapter 4]({{site.url}}pdfs/04-Bendat-Piersol-chapter-04.pdf)
 
 
 ### Lecture 5: Interferometry

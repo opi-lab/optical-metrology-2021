@@ -93,7 +93,8 @@ The notebooks for this lecture:
 
 Exercise:
 
-- [Fitting data.](http://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/fitting.ipynb)
+- [Fitting data.](https://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/fitting.ipynb)
+- <https://github.com/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/fitting.ipynb>
 
 
 #### Recommended Readings

@@ -87,8 +87,9 @@ For the calculations we will be using Python via Jupyter notebooks. You can [dow
 
 The notebooks for this lecture:
 
-- [Illustration of Confidence Intervals.](http://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/confidence-intervals.ipynb)
+- [Illustration of Confidence Intervals.](http://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/confidence_intervals.ipynb)
 - [Calibration.](http://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/calibracion.ipynb)
+
 
 Exercise:
 

@@ -111,6 +111,17 @@ Data characterization and fitting. Solve the exercises in the [Illustration of c
 
 - [Upload link](https://www.dropbox.com/request/3w5dgJDTkPP725CBmgOE)
 
+### Lecture 3: Basic Optical Principles and Imaging Systems
+
+In this lecture we will discuss the Basic Optical Principles and Imaging Systems.
+
+[Lecture 3 slides]({{site.url}}lectures/Lecture_03.pdf)
+
+#### Recommended Readings
+
+- [Gasvik - Optical Metrology - Chapters 1 and 2]({{site.url}}pdfs/gasvik-01-02.pdf)
+- [Giancoli - Optical Instruments]({{site.url}}pdfs/giancoli-ch-25-optical-instruments.pdf)
+
 <!--
 
 ### Lecture 2: Methods in Surface Metrology
@@ -139,16 +150,6 @@ Surface roughness characterization. **Due date:** 2019-04-20.
 [David J. Whitehouse-Surfaces and their Measurement Chap 1 and 2](https://www.dropbox.com/s/d4mcz2v2hkyq5lm/David%20J.%20Whitehouse-Surfaces%20and%20their%20Measurement%20%282002%29.pdf?dl=0)
 [Specification-iso-4287](https://www.dropbox.com/s/nbri2six0kqbeuc/Specification-iso-4287.pdf?dl=0)
 
-### Lecture 3: Basic Optical Principles and Imaging Systems
-
-In this lecture we will discuss the Basic Optical Principles and Imaging Systems.
-
-[Lecture 3 slides]({{site.url}}lectures/Lecture_03.pdf)
-
-#### Recommended Readings
-
-- [Gasvik - Optical Metrology - Chapters 1 and 2]({{site.url}}pdfs/gasvik-01-02.pdf)
-- [Giancoli - Optical Instruments]({{site.url}}pdfs/giancoli-ch-25-optical-instruments.pdf)
 
 
 

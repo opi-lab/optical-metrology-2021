@@ -94,8 +94,8 @@ The notebooks for this lecture:
 
 Exercise:
 
-<!-- - [Fitting data.](https://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/fitting.ipynb) -->
-- [Fitting data.](https://github.com/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/fitting.ipynb)
+- [Fitting data.](https://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/fitting.ipynb)
+<!-- - [Fitting data.](https://github.com/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/fitting.ipynb) -->
 
 
 #### Recommended Readings
@@ -103,6 +103,13 @@ Exercise:
 - [A Statistical Overview on Univariate Calibration, Inverse Regression, and Detection Limits]({{site.url}}pdfs/Mass_Spectrom._Rev._Lavagnini_2006.pdf)
 - [Notes on device calibration]({{site.url}}pdfs/03-NoteDeviceCalibration.pdf)
 - [J Bendat and A Piersol - Statistical Principles  - Chapter 4]({{site.url}}pdfs/04-Bendat-Piersol-chapter-04.pdf)
+
+
+### Assignment 1
+
+Data characterization and fitting. Solve the exercises in the [Illustration of confidence intervals notebook](http://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/confidence_intervals.ipynb) and the [fitting data notebook](https://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/fitting.ipynb). Submit a ZIP file (firstname-lastname.zip) with the two notebooks in .ipynb format through the upload link. **Due date:** 2021-08-27.
+
+- [Upload link](https://www.dropbox.com/request/3w5dgJDTkPP725CBmgOE)
 
 <!--
 

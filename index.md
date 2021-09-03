@@ -115,8 +115,8 @@ Data characterization and fitting. Solve the exercises in the [Illustration of c
 
 In this lecture we will discuss the Basic Optical Principles and Imaging Systems.
 
-[Lecture 3 slides]({{site.url}}lectures/Lecture_03.pdf)
-[Lecture 3 examples]({{site.url}}lectures/Lecture_03-examples.pdf)
+- [Lecture 3 slides]({{site.url}}lectures/Lecture_03.pdf)    
+- [Lecture 3 examples]({{site.url}}lectures/Lecture_03-examples.pdf)
 
 #### Recommended Readings
 

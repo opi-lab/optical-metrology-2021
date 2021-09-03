@@ -116,39 +116,41 @@ Data characterization and fitting. Solve the exercises in the [Illustration of c
 In this lecture we will discuss the Basic Optical Principles and Imaging Systems.
 
 [Lecture 3 slides]({{site.url}}lectures/Lecture_03.pdf)
+[Lecture 3 examples]({{site.url}}lectures/Lecture_03-examples.pdf)
 
 #### Recommended Readings
 
 - [Gasvik - Optical Metrology - Chapters 1 and 2]({{site.url}}pdfs/gasvik-01-02.pdf)
 - [Giancoli - Optical Instruments]({{site.url}}pdfs/giancoli-ch-25-optical-instruments.pdf)
 
-<!--
 
-### Lecture 2: Methods in Surface Metrology
-We will first dive into this topic to do a lab practice next friday March 1st. In this lecture we introduce several basic concepts about surface measurements and characterization. The quantification of roughness and the different roughness scores. How roughness is related to the manufacturing process.
+### Lecture 4: Methods in Surface Metrology
+In this lecture we introduce several basic concepts about surface measurements and characterization. The quantification of roughness and the different roughness scores. How roughness is related to the manufacturing process.
 
 Please read the *Robust 3D surface recovery paper* below.
 
-[Lecture 2 slides]({{site.url}}lectures/Lecture_04.pdf)
+[Lecture 4 slides]({{site.url}}lectures/Lecture_04.pdf)
 
 #### Readings
 
 - [Robust 3D surface recovery paper](https://arxiv.org/abs/1901.08153)
 - [David Whitehose - Surfaces and their Measurement - Chapters 2 and 4](pdfs/whitehouse-surfaces-and-their-measurement-(2002).pdf)
 
-### Assignment 1
+### Assignment 2
 
-Surface roughness characterization. **Due date:** 2019-04-20.
+Surface roughness characterization. **Due date:** 2021-09-30.
 
-- [Assignment 1]({{site.url}}pdfs/Roughness-activity-presentation.pdf)
+- [Assignment 2]({{site.url}}pdfs/Roughness-activity-presentation.pdf)
 - [White-Light Interference 3D Microscopes]({{site.url}}pdfs/10-kevin-g-harding-handbook-of-optical-dimensional-metrology-wli-microscopy.pdf)
 - [Standard 3D matlab .mat file](https://www.dropbox.com/s/f9tr9z18bwoxu8c/standard_R3D.mat?dl=0)
 - [Standard 3D in csv format](https://www.dropbox.com/sh/cpt4x2xopdrqkbj/AACJpXsd-GhgCfWLlcpL9wJFa?dl=0)
 
-#### Suplementary material for assignment 1
+#### Suplementary material for assignment 2
 
 [David J. Whitehouse-Surfaces and their Measurement Chap 1 and 2](https://www.dropbox.com/s/d4mcz2v2hkyq5lm/David%20J.%20Whitehouse-Surfaces%20and%20their%20Measurement%20%282002%29.pdf?dl=0)
 [Specification-iso-4287](https://www.dropbox.com/s/nbri2six0kqbeuc/Specification-iso-4287.pdf?dl=0)
+
+<!--
 
 
 

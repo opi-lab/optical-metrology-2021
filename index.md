@@ -140,16 +140,16 @@ Please read the *Robust 3D surface recovery paper* below.
 
 Surface roughness characterization. **Due date:** 2021-09-30.
 
-- [Assignment 2]({{site.url}}pdfs/Roughness-activity-presentation.pdf)
-- [Upload link](https://www.dropbox.com/request/oVKAF6gmXFJdGgsBwIoi)
-- [White-Light Interference 3D Microscopes]({{site.url}}pdfs/10-kevin-g-harding-handbook-of-optical-dimensional-metrology-wli-microscopy.pdf)
-- [Standard 3D matlab .mat file](https://www.dropbox.com/s/f9tr9z18bwoxu8c/standard_R3D.mat?dl=0)
-- [Standard 3D in csv format](https://www.dropbox.com/sh/cpt4x2xopdrqkbj/AACJpXsd-GhgCfWLlcpL9wJFa?dl=0)
+- [Assignment 2]({{site.url}}pdfs/Roughness-activity-presentation.pdf)    
+- [Upload link](https://www.dropbox.com/request/oVKAF6gmXFJdGgsBwIoi)    
+- [White-Light Interference 3D Microscopes]({{site.url}}pdfs/10-kevin-g-harding-handbook-of-optical-dimensional-metrology-wli-microscopy.pdf)    
+- [Standard 3D matlab .mat file](https://www.dropbox.com/s/f9tr9z18bwoxu8c/standard_R3D.mat?dl=0)    
+- [Standard 3D in csv format](https://www.dropbox.com/sh/cpt4x2xopdrqkbj/AACJpXsd-GhgCfWLlcpL9wJFa?dl=0)    
 
 #### Suplementary material for assignment 2
 
-[David J. Whitehouse-Surfaces and their Measurement Chap 1 and 2](https://www.dropbox.com/s/d4mcz2v2hkyq5lm/David%20J.%20Whitehouse-Surfaces%20and%20their%20Measurement%20%282002%29.pdf?dl=0)
-[Specification-iso-4287](https://www.dropbox.com/s/nbri2six0kqbeuc/Specification-iso-4287.pdf?dl=0)
+- [David J. Whitehouse-Surfaces and their Measurement Chap 1 and 2](https://www.dropbox.com/s/d4mcz2v2hkyq5lm/David%20J.%20Whitehouse-Surfaces%20and%20their%20Measurement%20%282002%29.pdf?dl=0)    
+- [Specification-iso-4287](https://www.dropbox.com/s/nbri2six0kqbeuc/Specification-iso-4287.pdf?dl=0)
 
 
 ### Projects

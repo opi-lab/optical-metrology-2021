@@ -154,7 +154,7 @@ Surface roughness characterization. **Due date:** 2021-09-30.
 
 ### Projects
 
-- [Course projects description]({{site.url}}/projects/
+- [Course projects description]({{site.url}}projects/)
 - [Upload link](https://www.dropbox.com/request/ww1sjRejiD65ngupCB9z)
 
 

@@ -164,3 +164,15 @@ In this lecture we will be discussing about the fundamentals of interferometry a
 
 [Lecture 5 slides]({{site.url}}lectures/Lecture_05.pdf)
 
+### Invited lecture: Lidar and autonomous vehicle
+
+In this lecture we will be discussing about the fundamentals of interferometry and its applications.
+
+[Lecture slides]({{site.url}}lectures/Lecture_lidar.pdf)
+
+### Lecture 6: Phase-Shifting Systems and Phase-Shifting Analysis
+
+In this lecture we will be discussing phase shifting phase analysis systems.
+
+[Lecture 6 slides]({{site.url}}lectures/Lecture_06.pdf)
+

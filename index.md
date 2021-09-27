@@ -164,6 +164,15 @@ In this lecture we will be discussing about the fundamentals of interferometry a
 
 [Lecture 5 slides]({{site.url}}lectures/Lecture_05.pdf)
 
+
+### Assignment 3
+
+In this assignment we will estimate the 3D surface of a metallic sphere using White Light Scanning Interference Microscopy (WLSI). **Due date:** 2021-10-14.
+
+- [Assignment 3](https://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/wlsi-processing.ipynb)    
+- [Upload link](https://www.dropbox.com/request/oVKAF6gmXFJdGgsBwIoi) 
+- [White light interferometry](pdf.pdf)
+
 ### Invited lecture: Lidar and autonomous vehicle
 
 In this lecture we will be discussing about the fundamentals of interferometry and its applications.

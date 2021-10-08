@@ -175,9 +175,9 @@ In this assignment we will estimate the 3D surface of a metallic sphere using Wh
 
 ### Invited lecture: Lidar and autonomous vehicle
 
-In this lecture we will be discussing about the fundamentals of interferometry and its applications.
+In this invited lecture, Prof. Santiago Royo will be talking to us about Lidar and autonomous vehicles.
 
-[Lecture slides]({{site.url}}lectures/Lecture_lidar.pdf)
+<!-- [Lecture slides]({{site.url}}lectures/Lecture_lidar.pdf) -->
 
 ### Lecture 6: Phase-Shifting Systems and Phase-Shifting Analysis
 
@@ -185,3 +185,12 @@ In this lecture we will be discussing phase shifting phase analysis systems.
 
 [Lecture 6 slides]({{site.url}}lectures/Lecture_06.pdf)
 
+### Invited lecture: Structured Light
+
+In this invited lecture, Prof. Zhang will introduce the topic of structured light and applications.
+
+### Lecture 7: Structured light cont'd
+
+We will continue with structured light and develop several examples.
+
+[Lecture 7 slides]({{site.url}}lectures/Lecture_07.pdf)

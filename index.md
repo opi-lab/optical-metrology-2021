@@ -193,7 +193,7 @@ In this invited lecture, Prof. Zhang will introduce the topic of structured ligh
 
 We will continue with structured light and develop several examples.
 
-[Lecture 7 slides]({{site.url}}lectures/Lecture_07.pdf)
+- [Lecture 7 slides]({{site.url}}lectures/Lecture_07.pdf)
 
 <!-- - [Structured light 3D reconstruction notebook](https://github.com/opi-lab/stsiva-workshop/blob/main/notebooks/stsiva_workshop_notebook03.ipynb) -->
 - [Structured light 3D reconstruction notebook](https://nbviewer.jupyter.org/github/opi-lab/stsiva-workshop/blob/main/notebooks/stsiva_workshop_notebook03.ipynb)

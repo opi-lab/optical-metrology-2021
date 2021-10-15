@@ -201,3 +201,4 @@ We will continue with structured light and develop several examples.
 ### In-class activity: laser triangulation
 
 - [Laser spot triangulation notebook](https://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/sl_laser_spot_notebook.ipynb)
+- [Upload link](https://www.dropbox.com/request/7j4sjLJATFqgWILmvWfQ)

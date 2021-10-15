@@ -197,3 +197,7 @@ We will continue with structured light and develop several examples.
 
 <!-- - [Structured light 3D reconstruction notebook](https://github.com/opi-lab/stsiva-workshop/blob/main/notebooks/stsiva_workshop_notebook03.ipynb) -->
 - [Structured light 3D reconstruction notebook](https://nbviewer.jupyter.org/github/opi-lab/stsiva-workshop/blob/main/notebooks/stsiva_workshop_notebook03.ipynb)
+
+### In-class activity: laser triangulation
+
+- [Laser spot triangulation notebook](https://nbviewer.jupyter.org/github/opi-lab/stsiva-workshop/blob/main/notebooks/sl_laser_spot_notebook.ipynb)

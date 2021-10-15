@@ -164,3 +164,36 @@ In this lecture we will be discussing about the fundamentals of interferometry a
 
 [Lecture 5 slides]({{site.url}}lectures/Lecture_05.pdf)
 
+
+### Assignment 3
+
+In this assignment we will estimate the 3D surface of a metallic sphere using White Light Scanning Interference Microscopy (WLSI). **Due date:** 2021-10-14.
+
+- [Assignment 3](https://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/wlsi_processing.ipynb)    
+- [Upload link](https://www.dropbox.com/request/oVKAF6gmXFJdGgsBwIoi) 
+- [White light interferometry](pdf.pdf)
+
+### Invited lecture: Lidar and autonomous vehicle
+
+In this invited lecture, Prof. Santiago Royo will be talking to us about Lidar and autonomous vehicles.
+
+<!-- [Lecture slides]({{site.url}}lectures/Lecture_lidar.pdf) -->
+
+### Lecture 6: Phase-Shifting Systems and Phase-Shifting Analysis
+
+In this lecture we will be discussing phase shifting phase analysis systems.
+
+[Lecture 6 slides]({{site.url}}lectures/Lecture_06.pdf)
+
+### Invited lecture: Structured Light
+
+In this invited lecture, Prof. Zhang will introduce the topic of structured light and applications.
+
+### Lecture 7: Structured light cont'd
+
+We will continue with structured light and develop several examples.
+
+- [Lecture 7 slides](https://www.dropbox.com/s/x00ky3jcg6z707s/Lecture_07.pdf?dl=0)
+
+<!-- - [Structured light 3D reconstruction notebook](https://github.com/opi-lab/stsiva-workshop/blob/main/notebooks/stsiva_workshop_notebook03.ipynb) -->
+- [Structured light 3D reconstruction notebook](https://nbviewer.jupyter.org/github/opi-lab/stsiva-workshop/blob/main/notebooks/stsiva_workshop_notebook03.ipynb)

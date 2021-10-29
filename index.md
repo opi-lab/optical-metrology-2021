@@ -202,3 +202,8 @@ We will continue with structured light and develop several examples.
 
 - [Laser spot triangulation notebook](https://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/sl_laser_spot_notebook.ipynb)
 - [Upload link](https://www.dropbox.com/request/7j4sjLJATFqgWILmvWfQ)
+
+### In-class activity: phase-shifting
+
+- [Phase-shifting notebook](https://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/sl_phase_shifting_notebook.ipynb)
+- [Upload link](https://www.dropbox.com/request/I8nHbof2rW5MRGx4rLCK)

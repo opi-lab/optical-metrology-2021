@@ -207,3 +207,9 @@ We will continue with structured light and develop several examples.
 
 - [Phase-shifting notebook](https://nbviewer.jupyter.org/github/opi-lab/optical-metrology-2021/blob/gh-pages/notebooks/sl_phase_shifting_notebook.ipynb)
 - [Upload link](https://www.dropbox.com/request/I8nHbof2rW5MRGx4rLCK)
+
+### Lecture 8: Digital Image Correlation
+
+We will continue with structured light and develop several examples.
+
+[Lecture 8 slides]({{site.url}}lectures/Lecture_08.pdf)

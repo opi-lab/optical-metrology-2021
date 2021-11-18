@@ -213,3 +213,10 @@ We will continue with structured light and develop several examples.
 We will continue with structured light and develop several examples.
 
 [Lecture 8 slides]({{site.url}}lectures/Lecture_08.pdf)
+
+### Final exam
+
+Here is the final exam. You will have until 5 pm to submit your response. Send it as a PDF.
+
+- [Exam](https://www.dropbox.com/s/dw8t5xvlfbq6xmy/exam-.pdf?dl=0)
+- [Upload link](https://www.dropbox.com/request/Z31KnhpFrIqQLsMFjwjh)

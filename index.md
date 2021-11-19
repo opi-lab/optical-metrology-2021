@@ -218,5 +218,5 @@ We will continue with structured light and develop several examples.
 
 Here is the final exam. You will have until 5 pm to submit your response. Send it as a PDF.
 
-- [Exam](https://www.dropbox.com/s/dw8t5xvlfbq6xmy/exam-.pdf?dl=0)
+- [Exam](https://www.dropbox.com/s/dw8t5xvlfbq6xmy/exam-2021.pdf?dl=0)
 - [Upload link](https://www.dropbox.com/request/Z31KnhpFrIqQLsMFjwjh)
